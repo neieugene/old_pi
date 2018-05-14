@@ -1,0 +1,1180 @@
+# Logfile created on 2018-04-18 17:45:21 +0300 by logger.rb/56815
+[2018-04-18 17:45:21 +0300 eugene-Aspire-5560 (26943)] INFO : Starting the New Relic agent version 5.0.0.342 in "development" environment.
+[2018-04-18 17:45:21 +0300 eugene-Aspire-5560 (26943)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2018-04-18 17:45:21 +0300 eugene-Aspire-5560 (26943)] WARN : No configuration file found. Working directory = /home/eugene/pi
+[2018-04-18 17:45:21 +0300 eugene-Aspire-5560 (26943)] WARN : Looked in these locations (based on defaults): /home/eugene/pi/config/newrelic.yml, /home/eugene/pi/newrelic.yml, /home/eugene/pi/config/newrelic.yml, /home/eugene/pi/newrelic.yml, /home/eugene/.newrelic/newrelic.yml, /home/eugene/newrelic.yml
+[2018-04-18 17:45:21 +0300 eugene-Aspire-5560 (26943)] INFO : Environment: development
+[2018-04-18 17:45:21 +0300 eugene-Aspire-5560 (26943)] INFO : No known dispatcher detected.
+[2018-04-18 17:45:21 +0300 eugene-Aspire-5560 (26943)] INFO : Application: development
+[2018-04-18 17:45:21 +0300 eugene-Aspire-5560 (26943)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2018-04-18 17:45:21 +0300 eugene-Aspire-5560 (26943)] INFO : Installing ActiveRecord 5 instrumentation
+[2018-04-18 17:45:21 +0300 eugene-Aspire-5560 (26943)] INFO : Installing http.rb instrumentation
+[2018-04-18 17:45:21 +0300 eugene-Aspire-5560 (26943)] INFO : Installing ActiveJob instrumentation
+[2018-04-18 17:45:22 +0300 eugene-Aspire-5560 (26943)] INFO : Installing deferred Rack::Builder instrumentation
+[2018-04-18 17:45:22 +0300 eugene-Aspire-5560 (26943)] INFO : Installing Rack::Builder middleware instrumentation
+[2018-04-18 17:45:22 +0300 eugene-Aspire-5560 (26943)] INFO : Installing Net instrumentation
+[2018-04-18 17:45:22 +0300 eugene-Aspire-5560 (26943)] INFO : Installing middleware-based Excon instrumentation
+[2018-04-18 17:45:22 +0300 eugene-Aspire-5560 (26943)] INFO : Installing Rails 3+ middleware instrumentation
+[2018-04-18 17:45:22 +0300 eugene-Aspire-5560 (26943)] INFO : Installing Rails 5 Controller instrumentation
+[2018-04-18 17:45:22 +0300 eugene-Aspire-5560 (26943)] INFO : Installing Rails 5 Action Cable instrumentation
+[2018-04-18 17:45:22 +0300 eugene-Aspire-5560 (26943)] INFO : Installing Rails 5 view instrumentation
+[2018-04-18 17:45:22 +0300 eugene-Aspire-5560 (26943)] INFO : Finished instrumentation
+[2018-04-18 17:46:02 +0300 eugene-Aspire-5560 (26943)] INFO : Doing deferred dependency-detection before Rack startup
+[2018-04-18 17:46:32 +0300 eugene-Aspire-5560 (26943)] ERROR : Invalid license key, please contact support@newrelic.com
+[2018-04-18 17:46:32 +0300 eugene-Aspire-5560 (26943)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[2018-04-18 17:47:20 +0300 eugene-Aspire-5560 (26943)] INFO : Starting Agent shutdown
+[2018-04-18 17:47:39 +0300 eugene-Aspire-5560 (27253)] INFO : Starting the New Relic agent version 5.0.0.342 in "development" environment.
+[2018-04-18 17:47:39 +0300 eugene-Aspire-5560 (27253)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2018-04-18 17:47:39 +0300 eugene-Aspire-5560 (27253)] WARN : No configuration file found. Working directory = /home/eugene/pi
+[2018-04-18 17:47:39 +0300 eugene-Aspire-5560 (27253)] WARN : Looked in these locations (based on defaults): /home/eugene/pi/config/newrelic.yml, /home/eugene/pi/newrelic.yml, /home/eugene/pi/config/newrelic.yml, /home/eugene/pi/newrelic.yml, /home/eugene/.newrelic/newrelic.yml, /home/eugene/newrelic.yml
+[2018-04-18 17:47:39 +0300 eugene-Aspire-5560 (27253)] INFO : Environment: development
+[2018-04-18 17:47:39 +0300 eugene-Aspire-5560 (27253)] INFO : No known dispatcher detected.
+[2018-04-18 17:47:39 +0300 eugene-Aspire-5560 (27253)] INFO : Application: development
+[2018-04-18 17:47:39 +0300 eugene-Aspire-5560 (27253)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2018-04-18 17:47:39 +0300 eugene-Aspire-5560 (27253)] INFO : Installing ActiveRecord 5 instrumentation
+[2018-04-18 17:47:39 +0300 eugene-Aspire-5560 (27253)] INFO : Installing http.rb instrumentation
+[2018-04-18 17:47:39 +0300 eugene-Aspire-5560 (27253)] INFO : Installing ActiveJob instrumentation
+[2018-04-18 17:47:40 +0300 eugene-Aspire-5560 (27253)] INFO : Installing deferred Rack::Builder instrumentation
+[2018-04-18 17:47:40 +0300 eugene-Aspire-5560 (27253)] INFO : Installing Rack::Builder middleware instrumentation
+[2018-04-18 17:47:40 +0300 eugene-Aspire-5560 (27253)] INFO : Installing Net instrumentation
+[2018-04-18 17:47:40 +0300 eugene-Aspire-5560 (27253)] INFO : Installing middleware-based Excon instrumentation
+[2018-04-18 17:47:40 +0300 eugene-Aspire-5560 (27253)] INFO : Installing Rails 3+ middleware instrumentation
+[2018-04-18 17:47:40 +0300 eugene-Aspire-5560 (27253)] INFO : Installing Rails 5 Controller instrumentation
+[2018-04-18 17:47:40 +0300 eugene-Aspire-5560 (27253)] INFO : Installing Rails 5 Action Cable instrumentation
+[2018-04-18 17:47:40 +0300 eugene-Aspire-5560 (27253)] INFO : Installing Rails 5 view instrumentation
+[2018-04-18 17:47:40 +0300 eugene-Aspire-5560 (27253)] INFO : Finished instrumentation
+[2018-04-18 17:47:42 +0300 eugene-Aspire-5560 (27253)] INFO : Doing deferred dependency-detection before Rack startup
+[2018-04-18 17:48:02 +0300 eugene-Aspire-5560 (27253)] ERROR : Invalid license key, please contact support@newrelic.com
+[2018-04-18 17:48:02 +0300 eugene-Aspire-5560 (27253)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[2018-04-18 17:48:50 +0300 eugene-Aspire-5560 (27253)] INFO : Starting Agent shutdown
+[2018-04-18 17:49:12 +0300 eugene-Aspire-5560 (27569)] INFO : Starting the New Relic agent version 5.0.0.342 in "development" environment.
+[2018-04-18 17:49:12 +0300 eugene-Aspire-5560 (27569)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2018-04-18 17:49:12 +0300 eugene-Aspire-5560 (27569)] WARN : No configuration file found. Working directory = /home/eugene/pi
+[2018-04-18 17:49:12 +0300 eugene-Aspire-5560 (27569)] WARN : Looked in these locations (based on defaults): /home/eugene/pi/config/newrelic.yml, /home/eugene/pi/newrelic.yml, /home/eugene/pi/config/newrelic.yml, /home/eugene/pi/newrelic.yml, /home/eugene/.newrelic/newrelic.yml, /home/eugene/newrelic.yml
+[2018-04-18 17:49:12 +0300 eugene-Aspire-5560 (27569)] INFO : Environment: development
+[2018-04-18 17:49:12 +0300 eugene-Aspire-5560 (27569)] INFO : No known dispatcher detected.
+[2018-04-18 17:49:12 +0300 eugene-Aspire-5560 (27569)] INFO : Application: development
+[2018-04-18 17:49:12 +0300 eugene-Aspire-5560 (27569)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2018-04-18 17:49:12 +0300 eugene-Aspire-5560 (27569)] INFO : Installing ActiveRecord 5 instrumentation
+[2018-04-18 17:49:12 +0300 eugene-Aspire-5560 (27569)] INFO : Installing http.rb instrumentation
+[2018-04-18 17:49:12 +0300 eugene-Aspire-5560 (27569)] INFO : Installing ActiveJob instrumentation
+[2018-04-18 17:49:12 +0300 eugene-Aspire-5560 (27569)] INFO : Installing deferred Rack::Builder instrumentation
+[2018-04-18 17:49:12 +0300 eugene-Aspire-5560 (27569)] INFO : Installing Rack::Builder middleware instrumentation
+[2018-04-18 17:49:12 +0300 eugene-Aspire-5560 (27569)] INFO : Installing Net instrumentation
+[2018-04-18 17:49:12 +0300 eugene-Aspire-5560 (27569)] INFO : Installing middleware-based Excon instrumentation
+[2018-04-18 17:49:12 +0300 eugene-Aspire-5560 (27569)] INFO : Installing Rails 3+ middleware instrumentation
+[2018-04-18 17:49:12 +0300 eugene-Aspire-5560 (27569)] INFO : Installing Rails 5 Controller instrumentation
+[2018-04-18 17:49:12 +0300 eugene-Aspire-5560 (27569)] INFO : Installing Rails 5 Action Cable instrumentation
+[2018-04-18 17:49:12 +0300 eugene-Aspire-5560 (27569)] INFO : Installing Rails 5 view instrumentation
+[2018-04-18 17:49:12 +0300 eugene-Aspire-5560 (27569)] INFO : Finished instrumentation
+[2018-04-18 17:49:14 +0300 eugene-Aspire-5560 (27569)] INFO : Doing deferred dependency-detection before Rack startup
+[2018-04-18 17:49:31 +0300 eugene-Aspire-5560 (27569)] ERROR : Invalid license key, please contact support@newrelic.com
+[2018-04-18 17:49:31 +0300 eugene-Aspire-5560 (27569)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[2018-04-18 17:50:45 +0300 eugene-Aspire-5560 (27569)] INFO : Starting Agent shutdown
+[2018-04-18 17:51:06 +0300 eugene-Aspire-5560 (27894)] INFO : Starting the New Relic agent version 5.0.0.342 in "development" environment.
+[2018-04-18 17:51:06 +0300 eugene-Aspire-5560 (27894)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2018-04-18 17:51:06 +0300 eugene-Aspire-5560 (27894)] WARN : No configuration file found. Working directory = /home/eugene/pi
+[2018-04-18 17:51:06 +0300 eugene-Aspire-5560 (27894)] WARN : Looked in these locations (based on defaults): /home/eugene/pi/config/newrelic.yml, /home/eugene/pi/newrelic.yml, /home/eugene/pi/config/newrelic.yml, /home/eugene/pi/newrelic.yml, /home/eugene/.newrelic/newrelic.yml, /home/eugene/newrelic.yml
+[2018-04-18 17:51:06 +0300 eugene-Aspire-5560 (27894)] INFO : Environment: development
+[2018-04-18 17:51:06 +0300 eugene-Aspire-5560 (27894)] INFO : No known dispatcher detected.
+[2018-04-18 17:51:06 +0300 eugene-Aspire-5560 (27894)] INFO : Application: development
+[2018-04-18 17:51:06 +0300 eugene-Aspire-5560 (27894)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2018-04-18 17:51:06 +0300 eugene-Aspire-5560 (27894)] INFO : Installing ActiveRecord 5 instrumentation
+[2018-04-18 17:51:06 +0300 eugene-Aspire-5560 (27894)] INFO : Installing http.rb instrumentation
+[2018-04-18 17:51:06 +0300 eugene-Aspire-5560 (27894)] INFO : Installing ActiveJob instrumentation
+[2018-04-18 17:51:06 +0300 eugene-Aspire-5560 (27894)] INFO : Installing deferred Rack::Builder instrumentation
+[2018-04-18 17:51:06 +0300 eugene-Aspire-5560 (27894)] INFO : Installing Rack::Builder middleware instrumentation
+[2018-04-18 17:51:06 +0300 eugene-Aspire-5560 (27894)] INFO : Installing Net instrumentation
+[2018-04-18 17:51:06 +0300 eugene-Aspire-5560 (27894)] INFO : Installing middleware-based Excon instrumentation
+[2018-04-18 17:51:06 +0300 eugene-Aspire-5560 (27894)] INFO : Installing Rails 3+ middleware instrumentation
+[2018-04-18 17:51:06 +0300 eugene-Aspire-5560 (27894)] INFO : Installing Rails 5 Controller instrumentation
+[2018-04-18 17:51:06 +0300 eugene-Aspire-5560 (27894)] INFO : Installing Rails 5 Action Cable instrumentation
+[2018-04-18 17:51:06 +0300 eugene-Aspire-5560 (27894)] INFO : Installing Rails 5 view instrumentation
+[2018-04-18 17:51:06 +0300 eugene-Aspire-5560 (27894)] INFO : Finished instrumentation
+[2018-04-18 17:51:08 +0300 eugene-Aspire-5560 (27894)] INFO : Doing deferred dependency-detection before Rack startup
+[2018-04-18 17:51:28 +0300 eugene-Aspire-5560 (27894)] ERROR : Invalid license key, please contact support@newrelic.com
+[2018-04-18 17:51:28 +0300 eugene-Aspire-5560 (27894)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[2018-04-18 17:52:07 +0300 eugene-Aspire-5560 (27894)] INFO : Starting Agent shutdown
+[2018-04-18 17:52:26 +0300 eugene-Aspire-5560 (28193)] INFO : Starting the New Relic agent version 5.0.0.342 in "development" environment.
+[2018-04-18 17:52:26 +0300 eugene-Aspire-5560 (28193)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2018-04-18 17:52:26 +0300 eugene-Aspire-5560 (28193)] WARN : No configuration file found. Working directory = /home/eugene/pi
+[2018-04-18 17:52:26 +0300 eugene-Aspire-5560 (28193)] WARN : Looked in these locations (based on defaults): /home/eugene/pi/config/newrelic.yml, /home/eugene/pi/newrelic.yml, /home/eugene/pi/config/newrelic.yml, /home/eugene/pi/newrelic.yml, /home/eugene/.newrelic/newrelic.yml, /home/eugene/newrelic.yml
+[2018-04-18 17:52:26 +0300 eugene-Aspire-5560 (28193)] INFO : Environment: development
+[2018-04-18 17:52:26 +0300 eugene-Aspire-5560 (28193)] INFO : No known dispatcher detected.
+[2018-04-18 17:52:26 +0300 eugene-Aspire-5560 (28193)] INFO : Application: development
+[2018-04-18 17:52:26 +0300 eugene-Aspire-5560 (28193)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2018-04-18 17:52:26 +0300 eugene-Aspire-5560 (28193)] INFO : Installing ActiveRecord 5 instrumentation
+[2018-04-18 17:52:26 +0300 eugene-Aspire-5560 (28193)] INFO : Installing http.rb instrumentation
+[2018-04-18 17:52:26 +0300 eugene-Aspire-5560 (28193)] INFO : Installing ActiveJob instrumentation
+[2018-04-18 17:52:26 +0300 eugene-Aspire-5560 (28193)] INFO : Installing deferred Rack::Builder instrumentation
+[2018-04-18 17:52:26 +0300 eugene-Aspire-5560 (28193)] INFO : Installing Rack::Builder middleware instrumentation
+[2018-04-18 17:52:26 +0300 eugene-Aspire-5560 (28193)] INFO : Installing Net instrumentation
+[2018-04-18 17:52:26 +0300 eugene-Aspire-5560 (28193)] INFO : Installing middleware-based Excon instrumentation
+[2018-04-18 17:52:26 +0300 eugene-Aspire-5560 (28193)] INFO : Installing Rails 3+ middleware instrumentation
+[2018-04-18 17:52:26 +0300 eugene-Aspire-5560 (28193)] INFO : Installing Rails 5 Controller instrumentation
+[2018-04-18 17:52:26 +0300 eugene-Aspire-5560 (28193)] INFO : Installing Rails 5 Action Cable instrumentation
+[2018-04-18 17:52:26 +0300 eugene-Aspire-5560 (28193)] INFO : Installing Rails 5 view instrumentation
+[2018-04-18 17:52:26 +0300 eugene-Aspire-5560 (28193)] INFO : Finished instrumentation
+[2018-04-18 17:52:28 +0300 eugene-Aspire-5560 (28193)] INFO : Doing deferred dependency-detection before Rack startup
+[2018-04-18 17:52:49 +0300 eugene-Aspire-5560 (28193)] ERROR : Invalid license key, please contact support@newrelic.com
+[2018-04-18 17:52:49 +0300 eugene-Aspire-5560 (28193)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[2018-04-18 17:54:43 +0300 eugene-Aspire-5560 (28193)] INFO : Starting Agent shutdown
+[2018-04-18 17:55:05 +0300 eugene-Aspire-5560 (28550)] INFO : Starting the New Relic agent version 5.0.0.342 in "development" environment.
+[2018-04-18 17:55:05 +0300 eugene-Aspire-5560 (28550)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2018-04-18 17:55:05 +0300 eugene-Aspire-5560 (28550)] WARN : No configuration file found. Working directory = /home/eugene/pi
+[2018-04-18 17:55:05 +0300 eugene-Aspire-5560 (28550)] WARN : Looked in these locations (based on defaults): /home/eugene/pi/config/newrelic.yml, /home/eugene/pi/newrelic.yml, /home/eugene/pi/config/newrelic.yml, /home/eugene/pi/newrelic.yml, /home/eugene/.newrelic/newrelic.yml, /home/eugene/newrelic.yml
+[2018-04-18 17:55:05 +0300 eugene-Aspire-5560 (28550)] INFO : Environment: development
+[2018-04-18 17:55:05 +0300 eugene-Aspire-5560 (28550)] INFO : No known dispatcher detected.
+[2018-04-18 17:55:05 +0300 eugene-Aspire-5560 (28550)] INFO : Application: development
+[2018-04-18 17:55:05 +0300 eugene-Aspire-5560 (28550)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2018-04-18 17:55:05 +0300 eugene-Aspire-5560 (28550)] INFO : Installing ActiveRecord 5 instrumentation
+[2018-04-18 17:55:05 +0300 eugene-Aspire-5560 (28550)] INFO : Installing http.rb instrumentation
+[2018-04-18 17:55:05 +0300 eugene-Aspire-5560 (28550)] INFO : Installing ActiveJob instrumentation
+[2018-04-18 17:55:05 +0300 eugene-Aspire-5560 (28550)] INFO : Installing deferred Rack::Builder instrumentation
+[2018-04-18 17:55:05 +0300 eugene-Aspire-5560 (28550)] INFO : Installing Rack::Builder middleware instrumentation
+[2018-04-18 17:55:05 +0300 eugene-Aspire-5560 (28550)] INFO : Installing Net instrumentation
+[2018-04-18 17:55:05 +0300 eugene-Aspire-5560 (28550)] INFO : Installing middleware-based Excon instrumentation
+[2018-04-18 17:55:05 +0300 eugene-Aspire-5560 (28550)] INFO : Installing Rails 3+ middleware instrumentation
+[2018-04-18 17:55:05 +0300 eugene-Aspire-5560 (28550)] INFO : Installing Rails 5 Controller instrumentation
+[2018-04-18 17:55:05 +0300 eugene-Aspire-5560 (28550)] INFO : Installing Rails 5 Action Cable instrumentation
+[2018-04-18 17:55:05 +0300 eugene-Aspire-5560 (28550)] INFO : Installing Rails 5 view instrumentation
+[2018-04-18 17:55:05 +0300 eugene-Aspire-5560 (28550)] INFO : Finished instrumentation
+[2018-04-18 17:55:07 +0300 eugene-Aspire-5560 (28550)] INFO : Doing deferred dependency-detection before Rack startup
+[2018-04-18 17:55:40 +0300 eugene-Aspire-5560 (28550)] ERROR : Invalid license key, please contact support@newrelic.com
+[2018-04-18 17:55:40 +0300 eugene-Aspire-5560 (28550)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[2018-04-18 17:56:33 +0300 eugene-Aspire-5560 (28550)] INFO : Starting Agent shutdown
+[2018-04-18 17:56:54 +0300 eugene-Aspire-5560 (28896)] INFO : Starting the New Relic agent version 5.0.0.342 in "development" environment.
+[2018-04-18 17:56:54 +0300 eugene-Aspire-5560 (28896)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2018-04-18 17:56:54 +0300 eugene-Aspire-5560 (28896)] WARN : No configuration file found. Working directory = /home/eugene/pi
+[2018-04-18 17:56:54 +0300 eugene-Aspire-5560 (28896)] WARN : Looked in these locations (based on defaults): /home/eugene/pi/config/newrelic.yml, /home/eugene/pi/newrelic.yml, /home/eugene/pi/config/newrelic.yml, /home/eugene/pi/newrelic.yml, /home/eugene/.newrelic/newrelic.yml, /home/eugene/newrelic.yml
+[2018-04-18 17:56:54 +0300 eugene-Aspire-5560 (28896)] INFO : Environment: development
+[2018-04-18 17:56:54 +0300 eugene-Aspire-5560 (28896)] INFO : No known dispatcher detected.
+[2018-04-18 17:56:54 +0300 eugene-Aspire-5560 (28896)] INFO : Application: development
+[2018-04-18 17:56:54 +0300 eugene-Aspire-5560 (28896)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2018-04-18 17:56:54 +0300 eugene-Aspire-5560 (28896)] INFO : Installing ActiveRecord 5 instrumentation
+[2018-04-18 17:56:54 +0300 eugene-Aspire-5560 (28896)] INFO : Installing http.rb instrumentation
+[2018-04-18 17:56:54 +0300 eugene-Aspire-5560 (28896)] INFO : Installing ActiveJob instrumentation
+[2018-04-18 17:56:54 +0300 eugene-Aspire-5560 (28896)] INFO : Installing deferred Rack::Builder instrumentation
+[2018-04-18 17:56:54 +0300 eugene-Aspire-5560 (28896)] INFO : Installing Rack::Builder middleware instrumentation
+[2018-04-18 17:56:54 +0300 eugene-Aspire-5560 (28896)] INFO : Installing Net instrumentation
+[2018-04-18 17:56:55 +0300 eugene-Aspire-5560 (28896)] INFO : Installing middleware-based Excon instrumentation
+[2018-04-18 17:56:55 +0300 eugene-Aspire-5560 (28896)] INFO : Installing Rails 3+ middleware instrumentation
+[2018-04-18 17:56:55 +0300 eugene-Aspire-5560 (28896)] INFO : Installing Rails 5 Controller instrumentation
+[2018-04-18 17:56:55 +0300 eugene-Aspire-5560 (28896)] INFO : Installing Rails 5 Action Cable instrumentation
+[2018-04-18 17:56:55 +0300 eugene-Aspire-5560 (28896)] INFO : Installing Rails 5 view instrumentation
+[2018-04-18 17:56:55 +0300 eugene-Aspire-5560 (28896)] INFO : Finished instrumentation
+[2018-04-18 17:56:56 +0300 eugene-Aspire-5560 (28896)] INFO : Doing deferred dependency-detection before Rack startup
+[2018-04-18 17:57:02 +0300 eugene-Aspire-5560 (28896)] ERROR : Invalid license key, please contact support@newrelic.com
+[2018-04-18 17:57:02 +0300 eugene-Aspire-5560 (28896)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[2018-04-18 19:10:59 +0300 eugene-Aspire-5560 (28896)] INFO : Starting Agent shutdown
+[2018-04-18 19:11:22 +0300 eugene-Aspire-5560 (29563)] INFO : Starting the New Relic agent version 5.0.0.342 in "development" environment.
+[2018-04-18 19:11:22 +0300 eugene-Aspire-5560 (29563)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2018-04-18 19:11:22 +0300 eugene-Aspire-5560 (29563)] WARN : No configuration file found. Working directory = /home/eugene/pi
+[2018-04-18 19:11:22 +0300 eugene-Aspire-5560 (29563)] WARN : Looked in these locations (based on defaults): /home/eugene/pi/config/newrelic.yml, /home/eugene/pi/newrelic.yml, /home/eugene/pi/config/newrelic.yml, /home/eugene/pi/newrelic.yml, /home/eugene/.newrelic/newrelic.yml, /home/eugene/newrelic.yml
+[2018-04-18 19:11:22 +0300 eugene-Aspire-5560 (29563)] INFO : Environment: development
+[2018-04-18 19:11:22 +0300 eugene-Aspire-5560 (29563)] INFO : No known dispatcher detected.
+[2018-04-18 19:11:22 +0300 eugene-Aspire-5560 (29563)] INFO : Application: development
+[2018-04-18 19:11:22 +0300 eugene-Aspire-5560 (29563)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2018-04-18 19:11:22 +0300 eugene-Aspire-5560 (29563)] INFO : Installing ActiveRecord 5 instrumentation
+[2018-04-18 19:11:22 +0300 eugene-Aspire-5560 (29563)] INFO : Installing http.rb instrumentation
+[2018-04-18 19:11:22 +0300 eugene-Aspire-5560 (29563)] INFO : Installing ActiveJob instrumentation
+[2018-04-18 19:11:22 +0300 eugene-Aspire-5560 (29563)] INFO : Installing deferred Rack::Builder instrumentation
+[2018-04-18 19:11:22 +0300 eugene-Aspire-5560 (29563)] INFO : Installing Rack::Builder middleware instrumentation
+[2018-04-18 19:11:22 +0300 eugene-Aspire-5560 (29563)] INFO : Installing Net instrumentation
+[2018-04-18 19:11:22 +0300 eugene-Aspire-5560 (29563)] INFO : Installing middleware-based Excon instrumentation
+[2018-04-18 19:11:22 +0300 eugene-Aspire-5560 (29563)] INFO : Installing Rails 3+ middleware instrumentation
+[2018-04-18 19:11:22 +0300 eugene-Aspire-5560 (29563)] INFO : Installing Rails 5 Controller instrumentation
+[2018-04-18 19:11:22 +0300 eugene-Aspire-5560 (29563)] INFO : Installing Rails 5 Action Cable instrumentation
+[2018-04-18 19:11:22 +0300 eugene-Aspire-5560 (29563)] INFO : Installing Rails 5 view instrumentation
+[2018-04-18 19:11:22 +0300 eugene-Aspire-5560 (29563)] INFO : Finished instrumentation
+[2018-04-18 19:11:24 +0300 eugene-Aspire-5560 (29563)] INFO : Doing deferred dependency-detection before Rack startup
+[2018-04-18 19:11:42 +0300 eugene-Aspire-5560 (29563)] ERROR : Error establishing connection with New Relic Service at collector.newrelic.com:443:
+[2018-04-18 19:11:42 +0300 eugene-Aspire-5560 (29563)] ERROR : NewRelic::Agent::ServerConnectionException: Recoverable error talking to collector.newrelic.com:443 after 2 attempts: Failed to open TCP connection to collector.newrelic.com:443 (getaddrinfo: Temporary failure in name resolution)
+[2018-04-18 19:11:42 +0300 eugene-Aspire-5560 (29563)] INFO : Will re-attempt in 60 seconds
+[2018-04-18 19:12:42 +0300 eugene-Aspire-5560 (29563)] ERROR : Error establishing connection with New Relic Service at collector.newrelic.com:443:
+[2018-04-18 19:12:42 +0300 eugene-Aspire-5560 (29563)] ERROR : NewRelic::Agent::ServerConnectionException: Recoverable error talking to collector.newrelic.com:443 after 2 attempts: Failed to open TCP connection to collector.newrelic.com:443 (getaddrinfo: Temporary failure in name resolution)
+[2018-04-18 19:12:42 +0300 eugene-Aspire-5560 (29563)] INFO : Will re-attempt in 120 seconds
+[2018-04-18 19:14:42 +0300 eugene-Aspire-5560 (29563)] ERROR : Error establishing connection with New Relic Service at collector.newrelic.com:443:
+[2018-04-18 19:14:42 +0300 eugene-Aspire-5560 (29563)] ERROR : NewRelic::Agent::ServerConnectionException: Recoverable error talking to collector.newrelic.com:443 after 2 attempts: Failed to open TCP connection to collector.newrelic.com:443 (getaddrinfo: Temporary failure in name resolution)
+[2018-04-18 19:14:42 +0300 eugene-Aspire-5560 (29563)] INFO : Will re-attempt in 180 seconds
+[2018-04-18 19:16:40 +0300 eugene-Aspire-5560 (29563)] INFO : Starting Agent shutdown
+[2018-04-18 19:27:41 +0300 eugene-Aspire-5560 (31206)] INFO : Starting the New Relic agent version 5.0.0.342 in "development" environment.
+[2018-04-18 19:27:41 +0300 eugene-Aspire-5560 (31206)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2018-04-18 19:27:41 +0300 eugene-Aspire-5560 (31206)] WARN : No configuration file found. Working directory = /home/eugene/pi
+[2018-04-18 19:27:41 +0300 eugene-Aspire-5560 (31206)] WARN : Looked in these locations (based on defaults): /home/eugene/pi/config/newrelic.yml, /home/eugene/pi/newrelic.yml, /home/eugene/pi/config/newrelic.yml, /home/eugene/pi/newrelic.yml, /home/eugene/.newrelic/newrelic.yml, /home/eugene/newrelic.yml
+[2018-04-18 19:27:41 +0300 eugene-Aspire-5560 (31206)] INFO : Environment: development
+[2018-04-18 19:27:41 +0300 eugene-Aspire-5560 (31206)] INFO : No known dispatcher detected.
+[2018-04-18 19:27:41 +0300 eugene-Aspire-5560 (31206)] INFO : Application: development
+[2018-04-18 19:27:41 +0300 eugene-Aspire-5560 (31206)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2018-04-18 19:27:45 +0300 eugene-Aspire-5560 (31206)] INFO : Installing ActiveRecord 5 instrumentation
+[2018-04-18 19:27:45 +0300 eugene-Aspire-5560 (31206)] INFO : Installing http.rb instrumentation
+[2018-04-18 19:27:45 +0300 eugene-Aspire-5560 (31206)] INFO : Installing ActiveJob instrumentation
+[2018-04-18 19:27:47 +0300 eugene-Aspire-5560 (31206)] INFO : Installing deferred Rack::Builder instrumentation
+[2018-04-18 19:27:47 +0300 eugene-Aspire-5560 (31206)] INFO : Installing Rack::Builder middleware instrumentation
+[2018-04-18 19:27:47 +0300 eugene-Aspire-5560 (31206)] INFO : Installing Net instrumentation
+[2018-04-18 19:27:47 +0300 eugene-Aspire-5560 (31206)] INFO : Installing middleware-based Excon instrumentation
+[2018-04-18 19:27:47 +0300 eugene-Aspire-5560 (31206)] INFO : Installing Rails 3+ middleware instrumentation
+[2018-04-18 19:27:47 +0300 eugene-Aspire-5560 (31206)] INFO : Installing Rails 5 Controller instrumentation
+[2018-04-18 19:27:47 +0300 eugene-Aspire-5560 (31206)] INFO : Installing Rails 5 Action Cable instrumentation
+[2018-04-18 19:27:47 +0300 eugene-Aspire-5560 (31206)] INFO : Installing Rails 5 view instrumentation
+[2018-04-18 19:27:47 +0300 eugene-Aspire-5560 (31206)] INFO : Finished instrumentation
+[2018-04-18 19:27:59 +0300 eugene-Aspire-5560 (31206)] INFO : Doing deferred dependency-detection before Rack startup
+[2018-04-18 19:29:10 +0300 eugene-Aspire-5560 (31206)] ERROR : Invalid license key, please contact support@newrelic.com
+[2018-04-18 19:29:10 +0300 eugene-Aspire-5560 (31206)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[2018-04-18 20:23:28 +0300 eugene-Aspire-5560 (31206)] INFO : Starting Agent shutdown
+[2018-04-18 20:24:38 +0300 eugene-Aspire-5560 (377)] INFO : Starting the New Relic agent version 5.0.0.342 in "development" environment.
+[2018-04-18 20:24:38 +0300 eugene-Aspire-5560 (377)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2018-04-18 20:24:38 +0300 eugene-Aspire-5560 (377)] WARN : No configuration file found. Working directory = /home/eugene/pi
+[2018-04-18 20:24:38 +0300 eugene-Aspire-5560 (377)] WARN : Looked in these locations (based on defaults): /home/eugene/pi/config/newrelic.yml, /home/eugene/pi/newrelic.yml, /home/eugene/pi/config/newrelic.yml, /home/eugene/pi/newrelic.yml, /home/eugene/.newrelic/newrelic.yml, /home/eugene/newrelic.yml
+[2018-04-18 20:24:38 +0300 eugene-Aspire-5560 (377)] INFO : Environment: development
+[2018-04-18 20:24:38 +0300 eugene-Aspire-5560 (377)] INFO : No known dispatcher detected.
+[2018-04-18 20:24:38 +0300 eugene-Aspire-5560 (377)] INFO : Application: development
+[2018-04-18 20:24:38 +0300 eugene-Aspire-5560 (377)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2018-04-18 20:24:39 +0300 eugene-Aspire-5560 (377)] INFO : Installing ActiveRecord 5 instrumentation
+[2018-04-18 20:24:39 +0300 eugene-Aspire-5560 (377)] INFO : Installing http.rb instrumentation
+[2018-04-18 20:24:40 +0300 eugene-Aspire-5560 (377)] INFO : Installing ActiveJob instrumentation
+[2018-04-18 20:24:40 +0300 eugene-Aspire-5560 (377)] INFO : Installing deferred Rack::Builder instrumentation
+[2018-04-18 20:24:40 +0300 eugene-Aspire-5560 (377)] INFO : Installing Rack::Builder middleware instrumentation
+[2018-04-18 20:24:40 +0300 eugene-Aspire-5560 (377)] INFO : Installing Net instrumentation
+[2018-04-18 20:24:40 +0300 eugene-Aspire-5560 (377)] INFO : Installing middleware-based Excon instrumentation
+[2018-04-18 20:24:40 +0300 eugene-Aspire-5560 (377)] INFO : Installing Rails 3+ middleware instrumentation
+[2018-04-18 20:24:40 +0300 eugene-Aspire-5560 (377)] INFO : Installing Rails 5 Controller instrumentation
+[2018-04-18 20:24:40 +0300 eugene-Aspire-5560 (377)] INFO : Installing Rails 5 Action Cable instrumentation
+[2018-04-18 20:24:40 +0300 eugene-Aspire-5560 (377)] INFO : Installing Rails 5 view instrumentation
+[2018-04-18 20:24:40 +0300 eugene-Aspire-5560 (377)] INFO : Finished instrumentation
+[2018-04-18 20:25:03 +0300 eugene-Aspire-5560 (377)] INFO : Doing deferred dependency-detection before Rack startup
+[2018-04-18 20:25:19 +0300 eugene-Aspire-5560 (377)] ERROR : Invalid license key, please contact support@newrelic.com
+[2018-04-18 20:25:19 +0300 eugene-Aspire-5560 (377)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[2018-04-18 20:41:49 +0300 eugene-Aspire-5560 (1252)] INFO : Starting the New Relic agent version 5.0.0.342 in "development" environment.
+[2018-04-18 20:41:49 +0300 eugene-Aspire-5560 (1252)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2018-04-18 20:41:49 +0300 eugene-Aspire-5560 (1252)] WARN : No configuration file found. Working directory = /home/eugene/pi
+[2018-04-18 20:41:49 +0300 eugene-Aspire-5560 (1252)] WARN : Looked in these locations (based on defaults): /home/eugene/pi/config/newrelic.yml, /home/eugene/pi/newrelic.yml, /home/eugene/pi/config/newrelic.yml, /home/eugene/pi/newrelic.yml, /home/eugene/.newrelic/newrelic.yml, /home/eugene/newrelic.yml
+[2018-04-18 20:41:49 +0300 eugene-Aspire-5560 (1252)] INFO : Environment: development
+[2018-04-18 20:41:49 +0300 eugene-Aspire-5560 (1252)] INFO : No known dispatcher detected.
+[2018-04-18 20:41:49 +0300 eugene-Aspire-5560 (1252)] INFO : Application: development
+[2018-04-18 20:41:49 +0300 eugene-Aspire-5560 (1252)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2018-04-18 20:41:49 +0300 eugene-Aspire-5560 (1252)] INFO : Installing ActiveRecord 5 instrumentation
+[2018-04-18 20:41:49 +0300 eugene-Aspire-5560 (1252)] INFO : Installing http.rb instrumentation
+[2018-04-18 20:41:49 +0300 eugene-Aspire-5560 (1252)] INFO : Installing ActiveJob instrumentation
+[2018-04-18 20:41:49 +0300 eugene-Aspire-5560 (1252)] INFO : Installing deferred Rack::Builder instrumentation
+[2018-04-18 20:41:49 +0300 eugene-Aspire-5560 (1252)] INFO : Installing Rack::Builder middleware instrumentation
+[2018-04-18 20:41:49 +0300 eugene-Aspire-5560 (1252)] INFO : Installing Net instrumentation
+[2018-04-18 20:41:49 +0300 eugene-Aspire-5560 (1252)] INFO : Installing middleware-based Excon instrumentation
+[2018-04-18 20:41:49 +0300 eugene-Aspire-5560 (1252)] INFO : Installing Rails 3+ middleware instrumentation
+[2018-04-18 20:41:49 +0300 eugene-Aspire-5560 (1252)] INFO : Installing Rails 5 Controller instrumentation
+[2018-04-18 20:41:49 +0300 eugene-Aspire-5560 (1252)] INFO : Installing Rails 5 Action Cable instrumentation
+[2018-04-18 20:41:49 +0300 eugene-Aspire-5560 (1252)] INFO : Installing Rails 5 view instrumentation
+[2018-04-18 20:41:49 +0300 eugene-Aspire-5560 (1252)] INFO : Finished instrumentation
+[2018-04-18 20:48:05 +0300 eugene-Aspire-5560 (377)] INFO : Starting Agent shutdown
+[2018-04-18 20:49:00 +0300 eugene-Aspire-5560 (1624)] INFO : Starting the New Relic agent version 5.0.0.342 in "development" environment.
+[2018-04-18 20:49:00 +0300 eugene-Aspire-5560 (1624)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2018-04-18 20:49:00 +0300 eugene-Aspire-5560 (1624)] WARN : No configuration file found. Working directory = /home/eugene/pi
+[2018-04-18 20:49:00 +0300 eugene-Aspire-5560 (1624)] WARN : Looked in these locations (based on defaults): /home/eugene/pi/config/newrelic.yml, /home/eugene/pi/newrelic.yml, /home/eugene/pi/config/newrelic.yml, /home/eugene/pi/newrelic.yml, /home/eugene/.newrelic/newrelic.yml, /home/eugene/newrelic.yml
+[2018-04-18 20:49:00 +0300 eugene-Aspire-5560 (1624)] INFO : Environment: development
+[2018-04-18 20:49:00 +0300 eugene-Aspire-5560 (1624)] INFO : No known dispatcher detected.
+[2018-04-18 20:49:00 +0300 eugene-Aspire-5560 (1624)] INFO : Application: development
+[2018-04-18 20:49:00 +0300 eugene-Aspire-5560 (1624)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2018-04-18 20:49:01 +0300 eugene-Aspire-5560 (1624)] INFO : Installing ActiveRecord 5 instrumentation
+[2018-04-18 20:49:01 +0300 eugene-Aspire-5560 (1624)] INFO : Installing http.rb instrumentation
+[2018-04-18 20:49:01 +0300 eugene-Aspire-5560 (1624)] INFO : Installing ActiveJob instrumentation
+[2018-04-18 20:49:02 +0300 eugene-Aspire-5560 (1624)] INFO : Installing deferred Rack::Builder instrumentation
+[2018-04-18 20:49:02 +0300 eugene-Aspire-5560 (1624)] INFO : Installing Rack::Builder middleware instrumentation
+[2018-04-18 20:49:02 +0300 eugene-Aspire-5560 (1624)] INFO : Installing Net instrumentation
+[2018-04-18 20:49:02 +0300 eugene-Aspire-5560 (1624)] INFO : Installing middleware-based Excon instrumentation
+[2018-04-18 20:49:02 +0300 eugene-Aspire-5560 (1624)] INFO : Installing Rails 3+ middleware instrumentation
+[2018-04-18 20:49:02 +0300 eugene-Aspire-5560 (1624)] INFO : Installing Rails 5 Controller instrumentation
+[2018-04-18 20:49:02 +0300 eugene-Aspire-5560 (1624)] INFO : Installing Rails 5 Action Cable instrumentation
+[2018-04-18 20:49:02 +0300 eugene-Aspire-5560 (1624)] INFO : Installing Rails 5 view instrumentation
+[2018-04-18 20:49:02 +0300 eugene-Aspire-5560 (1624)] INFO : Finished instrumentation
+[2018-04-18 20:49:33 +0300 eugene-Aspire-5560 (1624)] INFO : Doing deferred dependency-detection before Rack startup
+[2018-04-18 20:50:28 +0300 eugene-Aspire-5560 (1624)] ERROR : Invalid license key, please contact support@newrelic.com
+[2018-04-18 20:50:28 +0300 eugene-Aspire-5560 (1624)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[2018-04-18 21:03:48 +0300 eugene-Aspire-5560 (1624)] INFO : Starting Agent shutdown
+[2018-04-18 21:12:30 +0300 eugene-Aspire-5560 (2659)] INFO : Starting the New Relic agent version 5.0.0.342 in "development" environment.
+[2018-04-18 21:12:30 +0300 eugene-Aspire-5560 (2659)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2018-04-18 21:12:30 +0300 eugene-Aspire-5560 (2659)] WARN : No configuration file found. Working directory = /home/eugene/pi
+[2018-04-18 21:12:30 +0300 eugene-Aspire-5560 (2659)] WARN : Looked in these locations (based on defaults): /home/eugene/pi/config/newrelic.yml, /home/eugene/pi/newrelic.yml, /home/eugene/pi/config/newrelic.yml, /home/eugene/pi/newrelic.yml, /home/eugene/.newrelic/newrelic.yml, /home/eugene/newrelic.yml
+[2018-04-18 21:12:30 +0300 eugene-Aspire-5560 (2659)] INFO : Environment: development
+[2018-04-18 21:12:30 +0300 eugene-Aspire-5560 (2659)] INFO : No known dispatcher detected.
+[2018-04-18 21:12:30 +0300 eugene-Aspire-5560 (2659)] INFO : Application: development
+[2018-04-18 21:12:30 +0300 eugene-Aspire-5560 (2659)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2018-04-18 21:12:31 +0300 eugene-Aspire-5560 (2659)] INFO : Installing ActiveRecord 5 instrumentation
+[2018-04-18 21:12:31 +0300 eugene-Aspire-5560 (2659)] INFO : Installing http.rb instrumentation
+[2018-04-18 21:12:31 +0300 eugene-Aspire-5560 (2659)] INFO : Installing ActiveJob instrumentation
+[2018-04-18 21:12:32 +0300 eugene-Aspire-5560 (2659)] INFO : Installing deferred Rack::Builder instrumentation
+[2018-04-18 21:12:32 +0300 eugene-Aspire-5560 (2659)] INFO : Installing Rack::Builder middleware instrumentation
+[2018-04-18 21:12:32 +0300 eugene-Aspire-5560 (2659)] INFO : Installing Net instrumentation
+[2018-04-18 21:12:32 +0300 eugene-Aspire-5560 (2659)] INFO : Installing middleware-based Excon instrumentation
+[2018-04-18 21:12:32 +0300 eugene-Aspire-5560 (2659)] INFO : Installing Rails 3+ middleware instrumentation
+[2018-04-18 21:12:32 +0300 eugene-Aspire-5560 (2659)] INFO : Installing Rails 5 Controller instrumentation
+[2018-04-18 21:12:32 +0300 eugene-Aspire-5560 (2659)] INFO : Installing Rails 5 Action Cable instrumentation
+[2018-04-18 21:12:32 +0300 eugene-Aspire-5560 (2659)] INFO : Installing Rails 5 view instrumentation
+[2018-04-18 21:12:32 +0300 eugene-Aspire-5560 (2659)] INFO : Finished instrumentation
+[2018-04-18 21:12:33 +0300 eugene-Aspire-5560 (2659)] INFO : Doing deferred dependency-detection before Rack startup
+[2018-04-18 21:13:37 +0300 eugene-Aspire-5560 (2659)] ERROR : Invalid license key, please contact support@newrelic.com
+[2018-04-18 21:13:37 +0300 eugene-Aspire-5560 (2659)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[2018-04-18 21:19:42 +0300 eugene-Aspire-5560 (2659)] INFO : Starting Agent shutdown
+[2018-04-18 21:20:09 +0300 eugene-Aspire-5560 (3113)] INFO : Starting the New Relic agent version 5.0.0.342 in "development" environment.
+[2018-04-18 21:20:09 +0300 eugene-Aspire-5560 (3113)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2018-04-18 21:20:09 +0300 eugene-Aspire-5560 (3113)] WARN : No configuration file found. Working directory = /home/eugene/pi
+[2018-04-18 21:20:09 +0300 eugene-Aspire-5560 (3113)] WARN : Looked in these locations (based on defaults): /home/eugene/pi/config/newrelic.yml, /home/eugene/pi/newrelic.yml, /home/eugene/pi/config/newrelic.yml, /home/eugene/pi/newrelic.yml, /home/eugene/.newrelic/newrelic.yml, /home/eugene/newrelic.yml
+[2018-04-18 21:20:09 +0300 eugene-Aspire-5560 (3113)] INFO : Environment: development
+[2018-04-18 21:20:09 +0300 eugene-Aspire-5560 (3113)] INFO : No known dispatcher detected.
+[2018-04-18 21:20:09 +0300 eugene-Aspire-5560 (3113)] INFO : Application: development
+[2018-04-18 21:20:09 +0300 eugene-Aspire-5560 (3113)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2018-04-18 21:20:10 +0300 eugene-Aspire-5560 (3113)] INFO : Installing ActiveRecord 5 instrumentation
+[2018-04-18 21:20:10 +0300 eugene-Aspire-5560 (3113)] INFO : Installing http.rb instrumentation
+[2018-04-18 21:20:10 +0300 eugene-Aspire-5560 (3113)] INFO : Installing ActiveJob instrumentation
+[2018-04-18 21:20:10 +0300 eugene-Aspire-5560 (3113)] INFO : Installing deferred Rack::Builder instrumentation
+[2018-04-18 21:20:10 +0300 eugene-Aspire-5560 (3113)] INFO : Installing Rack::Builder middleware instrumentation
+[2018-04-18 21:20:10 +0300 eugene-Aspire-5560 (3113)] INFO : Installing Net instrumentation
+[2018-04-18 21:20:10 +0300 eugene-Aspire-5560 (3113)] INFO : Installing middleware-based Excon instrumentation
+[2018-04-18 21:20:10 +0300 eugene-Aspire-5560 (3113)] INFO : Installing Rails 3+ middleware instrumentation
+[2018-04-18 21:20:10 +0300 eugene-Aspire-5560 (3113)] INFO : Installing Rails 5 Controller instrumentation
+[2018-04-18 21:20:10 +0300 eugene-Aspire-5560 (3113)] INFO : Installing Rails 5 Action Cable instrumentation
+[2018-04-18 21:20:10 +0300 eugene-Aspire-5560 (3113)] INFO : Installing Rails 5 view instrumentation
+[2018-04-18 21:20:10 +0300 eugene-Aspire-5560 (3113)] INFO : Finished instrumentation
+[2018-04-18 21:20:13 +0300 eugene-Aspire-5560 (3113)] INFO : Doing deferred dependency-detection before Rack startup
+[2018-04-18 21:20:21 +0300 eugene-Aspire-5560 (3113)] ERROR : Invalid license key, please contact support@newrelic.com
+[2018-04-18 21:20:21 +0300 eugene-Aspire-5560 (3113)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[2018-04-19 00:23:55 +0300 eugene-Aspire-5560 (3113)] INFO : Starting Agent shutdown
+[2018-04-19 00:33:41 +0300 eugene-Aspire-5560 (5470)] INFO : Starting the New Relic agent version 5.0.0.342 in "development" environment.
+[2018-04-19 00:33:41 +0300 eugene-Aspire-5560 (5470)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2018-04-19 00:33:41 +0300 eugene-Aspire-5560 (5470)] WARN : No configuration file found. Working directory = /home/eugene/pi
+[2018-04-19 00:33:41 +0300 eugene-Aspire-5560 (5470)] WARN : Looked in these locations (based on defaults): /home/eugene/pi/config/newrelic.yml, /home/eugene/pi/newrelic.yml, /home/eugene/pi/config/newrelic.yml, /home/eugene/pi/newrelic.yml, /home/eugene/.newrelic/newrelic.yml, /home/eugene/newrelic.yml
+[2018-04-19 00:33:42 +0300 eugene-Aspire-5560 (5470)] INFO : Environment: development
+[2018-04-19 00:33:42 +0300 eugene-Aspire-5560 (5470)] INFO : No known dispatcher detected.
+[2018-04-19 00:33:42 +0300 eugene-Aspire-5560 (5470)] INFO : Application: development
+[2018-04-19 00:33:42 +0300 eugene-Aspire-5560 (5470)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2018-04-19 00:33:43 +0300 eugene-Aspire-5560 (5470)] INFO : Installing ActiveRecord 5 instrumentation
+[2018-04-19 00:33:43 +0300 eugene-Aspire-5560 (5470)] INFO : Installing http.rb instrumentation
+[2018-04-19 00:33:43 +0300 eugene-Aspire-5560 (5470)] INFO : Installing ActiveJob instrumentation
+[2018-04-19 00:33:44 +0300 eugene-Aspire-5560 (5470)] INFO : Installing deferred Rack::Builder instrumentation
+[2018-04-19 00:33:44 +0300 eugene-Aspire-5560 (5470)] INFO : Installing Rack::Builder middleware instrumentation
+[2018-04-19 00:33:44 +0300 eugene-Aspire-5560 (5470)] INFO : Installing Net instrumentation
+[2018-04-19 00:33:44 +0300 eugene-Aspire-5560 (5470)] INFO : Installing middleware-based Excon instrumentation
+[2018-04-19 00:33:44 +0300 eugene-Aspire-5560 (5470)] INFO : Installing Rails 3+ middleware instrumentation
+[2018-04-19 00:33:44 +0300 eugene-Aspire-5560 (5470)] INFO : Installing Rails 5 Controller instrumentation
+[2018-04-19 00:33:44 +0300 eugene-Aspire-5560 (5470)] INFO : Installing Rails 5 Action Cable instrumentation
+[2018-04-19 00:33:44 +0300 eugene-Aspire-5560 (5470)] INFO : Installing Rails 5 view instrumentation
+[2018-04-19 00:33:44 +0300 eugene-Aspire-5560 (5470)] INFO : Finished instrumentation
+[2018-04-19 00:39:39 +0300 eugene-Aspire-5560 (5723)] INFO : Starting the New Relic agent version 5.0.0.342 in "development" environment.
+[2018-04-19 00:39:39 +0300 eugene-Aspire-5560 (5723)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2018-04-19 00:39:39 +0300 eugene-Aspire-5560 (5723)] WARN : No configuration file found. Working directory = /home/eugene/pi
+[2018-04-19 00:39:39 +0300 eugene-Aspire-5560 (5723)] WARN : Looked in these locations (based on defaults): /home/eugene/pi/config/newrelic.yml, /home/eugene/pi/newrelic.yml, /home/eugene/pi/config/newrelic.yml, /home/eugene/pi/newrelic.yml, /home/eugene/.newrelic/newrelic.yml, /home/eugene/newrelic.yml
+[2018-04-19 00:39:40 +0300 eugene-Aspire-5560 (5723)] INFO : Environment: development
+[2018-04-19 00:39:40 +0300 eugene-Aspire-5560 (5723)] INFO : No known dispatcher detected.
+[2018-04-19 00:39:40 +0300 eugene-Aspire-5560 (5723)] INFO : Application: development
+[2018-04-19 00:39:40 +0300 eugene-Aspire-5560 (5723)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2018-04-19 00:39:41 +0300 eugene-Aspire-5560 (5723)] INFO : Installing ActiveRecord 5 instrumentation
+[2018-04-19 00:39:41 +0300 eugene-Aspire-5560 (5723)] INFO : Installing http.rb instrumentation
+[2018-04-19 00:39:41 +0300 eugene-Aspire-5560 (5723)] INFO : Installing ActiveJob instrumentation
+[2018-04-19 00:39:41 +0300 eugene-Aspire-5560 (5723)] INFO : Installing deferred Rack::Builder instrumentation
+[2018-04-19 00:39:41 +0300 eugene-Aspire-5560 (5723)] INFO : Installing Rack::Builder middleware instrumentation
+[2018-04-19 00:39:41 +0300 eugene-Aspire-5560 (5723)] INFO : Installing Net instrumentation
+[2018-04-19 00:39:41 +0300 eugene-Aspire-5560 (5723)] INFO : Installing middleware-based Excon instrumentation
+[2018-04-19 00:39:41 +0300 eugene-Aspire-5560 (5723)] INFO : Installing Rails 3+ middleware instrumentation
+[2018-04-19 00:39:41 +0300 eugene-Aspire-5560 (5723)] INFO : Installing Rails 5 Controller instrumentation
+[2018-04-19 00:39:41 +0300 eugene-Aspire-5560 (5723)] INFO : Installing Rails 5 Action Cable instrumentation
+[2018-04-19 00:39:41 +0300 eugene-Aspire-5560 (5723)] INFO : Installing Rails 5 view instrumentation
+[2018-04-19 00:39:41 +0300 eugene-Aspire-5560 (5723)] INFO : Finished instrumentation
+[2018-04-19 00:39:42 +0300 eugene-Aspire-5560 (5723)] INFO : Doing deferred dependency-detection before Rack startup
+[2018-04-20 23:30:55 +0300 eugene-Aspire-5560 (20698)] INFO : Starting the New Relic agent version 5.0.0.342 in "development" environment.
+[2018-04-20 23:30:55 +0300 eugene-Aspire-5560 (20698)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2018-04-20 23:30:55 +0300 eugene-Aspire-5560 (20698)] WARN : No configuration file found. Working directory = /home/eugene/pi
+[2018-04-20 23:30:55 +0300 eugene-Aspire-5560 (20698)] WARN : Looked in these locations (based on defaults): /home/eugene/pi/config/newrelic.yml, /home/eugene/pi/newrelic.yml, /home/eugene/pi/config/newrelic.yml, /home/eugene/pi/newrelic.yml, /home/eugene/.newrelic/newrelic.yml, /home/eugene/newrelic.yml
+[2018-04-20 23:30:55 +0300 eugene-Aspire-5560 (20698)] INFO : Environment: development
+[2018-04-20 23:30:55 +0300 eugene-Aspire-5560 (20698)] INFO : No known dispatcher detected.
+[2018-04-20 23:30:55 +0300 eugene-Aspire-5560 (20698)] INFO : Application: development
+[2018-04-20 23:30:55 +0300 eugene-Aspire-5560 (20698)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2018-04-20 23:30:55 +0300 eugene-Aspire-5560 (20698)] INFO : Installing ActiveRecord 5 instrumentation
+[2018-04-20 23:30:55 +0300 eugene-Aspire-5560 (20698)] INFO : Installing http.rb instrumentation
+[2018-04-20 23:30:55 +0300 eugene-Aspire-5560 (20698)] INFO : Installing ActiveJob instrumentation
+[2018-04-20 23:30:56 +0300 eugene-Aspire-5560 (20698)] INFO : Installing deferred Rack::Builder instrumentation
+[2018-04-20 23:30:56 +0300 eugene-Aspire-5560 (20698)] INFO : Installing Rack::Builder middleware instrumentation
+[2018-04-20 23:30:56 +0300 eugene-Aspire-5560 (20698)] INFO : Installing Net instrumentation
+[2018-04-20 23:30:56 +0300 eugene-Aspire-5560 (20698)] INFO : Installing middleware-based Excon instrumentation
+[2018-04-20 23:30:56 +0300 eugene-Aspire-5560 (20698)] INFO : Installing Rails 3+ middleware instrumentation
+[2018-04-20 23:30:56 +0300 eugene-Aspire-5560 (20698)] INFO : Installing Rails 5 Controller instrumentation
+[2018-04-20 23:30:56 +0300 eugene-Aspire-5560 (20698)] INFO : Installing Rails 5 Action Cable instrumentation
+[2018-04-20 23:30:56 +0300 eugene-Aspire-5560 (20698)] INFO : Installing Rails 5 view instrumentation
+[2018-04-20 23:30:56 +0300 eugene-Aspire-5560 (20698)] INFO : Finished instrumentation
+[2018-04-20 23:31:43 +0300 eugene-Aspire-5560 (20698)] INFO : Doing deferred dependency-detection before Rack startup
+[2018-04-20 23:32:00 +0300 eugene-Aspire-5560 (20698)] ERROR : Invalid license key, please contact support@newrelic.com
+[2018-04-20 23:32:00 +0300 eugene-Aspire-5560 (20698)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[2018-04-22 00:44:22 +0300 eugene-Aspire-5560 (10794)] INFO : Starting the New Relic agent version 5.0.0.342 in "development" environment.
+[2018-04-22 00:44:22 +0300 eugene-Aspire-5560 (10794)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2018-04-22 00:44:22 +0300 eugene-Aspire-5560 (10794)] WARN : No configuration file found. Working directory = /home/eugene/pi
+[2018-04-22 00:44:22 +0300 eugene-Aspire-5560 (10794)] WARN : Looked in these locations (based on defaults): /home/eugene/pi/config/newrelic.yml, /home/eugene/pi/newrelic.yml, /home/eugene/pi/config/newrelic.yml, /home/eugene/pi/newrelic.yml, /home/eugene/.newrelic/newrelic.yml, /home/eugene/newrelic.yml
+[2018-04-22 00:44:22 +0300 eugene-Aspire-5560 (10794)] INFO : Environment: development
+[2018-04-22 00:44:22 +0300 eugene-Aspire-5560 (10794)] INFO : No known dispatcher detected.
+[2018-04-22 00:44:22 +0300 eugene-Aspire-5560 (10794)] INFO : Application: development
+[2018-04-22 00:44:22 +0300 eugene-Aspire-5560 (10794)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2018-04-22 00:44:23 +0300 eugene-Aspire-5560 (10794)] INFO : Installing ActiveRecord 5 instrumentation
+[2018-04-22 00:44:23 +0300 eugene-Aspire-5560 (10794)] INFO : Installing http.rb instrumentation
+[2018-04-22 00:44:23 +0300 eugene-Aspire-5560 (10794)] INFO : Installing ActiveJob instrumentation
+[2018-04-22 00:44:23 +0300 eugene-Aspire-5560 (10794)] INFO : Installing deferred Rack::Builder instrumentation
+[2018-04-22 00:44:23 +0300 eugene-Aspire-5560 (10794)] INFO : Installing Rack::Builder middleware instrumentation
+[2018-04-22 00:44:23 +0300 eugene-Aspire-5560 (10794)] INFO : Installing Net instrumentation
+[2018-04-22 00:44:23 +0300 eugene-Aspire-5560 (10794)] INFO : Installing middleware-based Excon instrumentation
+[2018-04-22 00:44:23 +0300 eugene-Aspire-5560 (10794)] INFO : Installing Rails 3+ middleware instrumentation
+[2018-04-22 00:44:23 +0300 eugene-Aspire-5560 (10794)] INFO : Installing Rails 5 Controller instrumentation
+[2018-04-22 00:44:23 +0300 eugene-Aspire-5560 (10794)] INFO : Installing Rails 5 Action Cable instrumentation
+[2018-04-22 00:44:23 +0300 eugene-Aspire-5560 (10794)] INFO : Installing Rails 5 view instrumentation
+[2018-04-22 00:44:23 +0300 eugene-Aspire-5560 (10794)] INFO : Finished instrumentation
+[2018-04-22 00:44:24 +0300 eugene-Aspire-5560 (10794)] INFO : Doing deferred dependency-detection before Rack startup
+[2018-04-22 00:45:21 +0300 eugene-Aspire-5560 (10794)] ERROR : Invalid license key, please contact support@newrelic.com
+[2018-04-22 00:45:21 +0300 eugene-Aspire-5560 (10794)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[2018-04-22 00:45:57 +0300 eugene-Aspire-5560 (10794)] INFO : Starting Agent shutdown
+[2018-04-22 00:48:04 +0300 eugene-Aspire-5560 (11287)] INFO : Starting the New Relic agent version 5.0.0.342 in "development" environment.
+[2018-04-22 00:48:04 +0300 eugene-Aspire-5560 (11287)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2018-04-22 00:48:04 +0300 eugene-Aspire-5560 (11287)] WARN : No configuration file found. Working directory = /home/eugene/pi
+[2018-04-22 00:48:04 +0300 eugene-Aspire-5560 (11287)] WARN : Looked in these locations (based on defaults): /home/eugene/pi/config/newrelic.yml, /home/eugene/pi/newrelic.yml, /home/eugene/pi/config/newrelic.yml, /home/eugene/pi/newrelic.yml, /home/eugene/.newrelic/newrelic.yml, /home/eugene/newrelic.yml
+[2018-04-22 00:48:04 +0300 eugene-Aspire-5560 (11287)] INFO : Environment: development
+[2018-04-22 00:48:04 +0300 eugene-Aspire-5560 (11287)] INFO : No known dispatcher detected.
+[2018-04-22 00:48:04 +0300 eugene-Aspire-5560 (11287)] INFO : Application: development
+[2018-04-22 00:48:04 +0300 eugene-Aspire-5560 (11287)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2018-04-22 00:48:04 +0300 eugene-Aspire-5560 (11287)] INFO : Installing ActiveRecord 5 instrumentation
+[2018-04-22 00:48:04 +0300 eugene-Aspire-5560 (11287)] INFO : Installing http.rb instrumentation
+[2018-04-22 00:48:04 +0300 eugene-Aspire-5560 (11287)] INFO : Installing ActiveJob instrumentation
+[2018-04-22 00:48:04 +0300 eugene-Aspire-5560 (11287)] INFO : Installing deferred Rack::Builder instrumentation
+[2018-04-22 00:48:04 +0300 eugene-Aspire-5560 (11287)] INFO : Installing Rack::Builder middleware instrumentation
+[2018-04-22 00:48:04 +0300 eugene-Aspire-5560 (11287)] INFO : Installing Net instrumentation
+[2018-04-22 00:48:04 +0300 eugene-Aspire-5560 (11287)] INFO : Installing middleware-based Excon instrumentation
+[2018-04-22 00:48:04 +0300 eugene-Aspire-5560 (11287)] INFO : Installing Rails 3+ middleware instrumentation
+[2018-04-22 00:48:04 +0300 eugene-Aspire-5560 (11287)] INFO : Installing Rails 5 Controller instrumentation
+[2018-04-22 00:48:04 +0300 eugene-Aspire-5560 (11287)] INFO : Installing Rails 5 Action Cable instrumentation
+[2018-04-22 00:48:04 +0300 eugene-Aspire-5560 (11287)] INFO : Installing Rails 5 view instrumentation
+[2018-04-22 00:48:04 +0300 eugene-Aspire-5560 (11287)] INFO : Finished instrumentation
+[2018-04-22 00:48:07 +0300 eugene-Aspire-5560 (11287)] INFO : Doing deferred dependency-detection before Rack startup
+[2018-04-22 00:48:39 +0300 eugene-Aspire-5560 (11287)] ERROR : Invalid license key, please contact support@newrelic.com
+[2018-04-22 00:48:39 +0300 eugene-Aspire-5560 (11287)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[2018-04-22 01:04:41 +0300 eugene-Aspire-5560 (11287)] INFO : Starting Agent shutdown
+[2018-04-22 01:27:00 +0300 eugene-Aspire-5560 (12931)] INFO : Starting the New Relic agent version 5.0.0.342 in "development" environment.
+[2018-04-22 01:27:00 +0300 eugene-Aspire-5560 (12931)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2018-04-22 01:27:00 +0300 eugene-Aspire-5560 (12931)] WARN : No configuration file found. Working directory = /home/eugene/pi
+[2018-04-22 01:27:00 +0300 eugene-Aspire-5560 (12931)] WARN : Looked in these locations (based on defaults): /home/eugene/pi/config/newrelic.yml, /home/eugene/pi/newrelic.yml, /home/eugene/pi/config/newrelic.yml, /home/eugene/pi/newrelic.yml, /home/eugene/.newrelic/newrelic.yml, /home/eugene/newrelic.yml
+[2018-04-22 01:27:00 +0300 eugene-Aspire-5560 (12931)] INFO : Environment: development
+[2018-04-22 01:27:00 +0300 eugene-Aspire-5560 (12931)] INFO : No known dispatcher detected.
+[2018-04-22 01:27:00 +0300 eugene-Aspire-5560 (12931)] INFO : Application: development
+[2018-04-22 01:27:00 +0300 eugene-Aspire-5560 (12931)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2018-04-22 01:27:00 +0300 eugene-Aspire-5560 (12931)] INFO : Installing ActiveRecord 5 instrumentation
+[2018-04-22 01:27:00 +0300 eugene-Aspire-5560 (12931)] INFO : Installing http.rb instrumentation
+[2018-04-22 01:27:00 +0300 eugene-Aspire-5560 (12931)] INFO : Installing ActiveJob instrumentation
+[2018-04-22 01:27:00 +0300 eugene-Aspire-5560 (12931)] INFO : Installing deferred Rack::Builder instrumentation
+[2018-04-22 01:27:00 +0300 eugene-Aspire-5560 (12931)] INFO : Installing Rack::Builder middleware instrumentation
+[2018-04-22 01:27:00 +0300 eugene-Aspire-5560 (12931)] INFO : Installing Net instrumentation
+[2018-04-22 01:27:00 +0300 eugene-Aspire-5560 (12931)] INFO : Installing middleware-based Excon instrumentation
+[2018-04-22 01:27:00 +0300 eugene-Aspire-5560 (12931)] INFO : Installing Rails 3+ middleware instrumentation
+[2018-04-22 01:27:00 +0300 eugene-Aspire-5560 (12931)] INFO : Installing Rails 5 Controller instrumentation
+[2018-04-22 01:27:00 +0300 eugene-Aspire-5560 (12931)] INFO : Installing Rails 5 Action Cable instrumentation
+[2018-04-22 01:27:00 +0300 eugene-Aspire-5560 (12931)] INFO : Installing Rails 5 view instrumentation
+[2018-04-22 01:27:00 +0300 eugene-Aspire-5560 (12931)] INFO : Finished instrumentation
+[2018-04-22 01:27:06 +0300 eugene-Aspire-5560 (12931)] INFO : Doing deferred dependency-detection before Rack startup
+[2018-04-22 01:27:48 +0300 eugene-Aspire-5560 (12931)] ERROR : Invalid license key, please contact support@newrelic.com
+[2018-04-22 01:27:48 +0300 eugene-Aspire-5560 (12931)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[2018-04-22 01:27:53 +0300 eugene-Aspire-5560 (12931)] INFO : Starting Agent shutdown
+[2018-04-22 01:29:20 +0300 eugene-Aspire-5560 (13223)] INFO : Starting the New Relic agent version 5.0.0.342 in "development" environment.
+[2018-04-22 01:29:20 +0300 eugene-Aspire-5560 (13223)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2018-04-22 01:29:20 +0300 eugene-Aspire-5560 (13223)] WARN : No configuration file found. Working directory = /home/eugene/pi
+[2018-04-22 01:29:20 +0300 eugene-Aspire-5560 (13223)] WARN : Looked in these locations (based on defaults): /home/eugene/pi/config/newrelic.yml, /home/eugene/pi/newrelic.yml, /home/eugene/pi/config/newrelic.yml, /home/eugene/pi/newrelic.yml, /home/eugene/.newrelic/newrelic.yml, /home/eugene/newrelic.yml
+[2018-04-22 01:29:20 +0300 eugene-Aspire-5560 (13223)] INFO : Environment: development
+[2018-04-22 01:29:20 +0300 eugene-Aspire-5560 (13223)] INFO : No known dispatcher detected.
+[2018-04-22 01:29:20 +0300 eugene-Aspire-5560 (13223)] INFO : Application: development
+[2018-04-22 01:29:20 +0300 eugene-Aspire-5560 (13223)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2018-04-22 01:29:20 +0300 eugene-Aspire-5560 (13223)] INFO : Installing ActiveRecord 5 instrumentation
+[2018-04-22 01:29:20 +0300 eugene-Aspire-5560 (13223)] INFO : Installing http.rb instrumentation
+[2018-04-22 01:29:20 +0300 eugene-Aspire-5560 (13223)] INFO : Installing ActiveJob instrumentation
+[2018-04-22 01:29:20 +0300 eugene-Aspire-5560 (13223)] INFO : Installing deferred Rack::Builder instrumentation
+[2018-04-22 01:29:20 +0300 eugene-Aspire-5560 (13223)] INFO : Installing Rack::Builder middleware instrumentation
+[2018-04-22 01:29:20 +0300 eugene-Aspire-5560 (13223)] INFO : Installing Net instrumentation
+[2018-04-22 01:29:20 +0300 eugene-Aspire-5560 (13223)] INFO : Installing middleware-based Excon instrumentation
+[2018-04-22 01:29:20 +0300 eugene-Aspire-5560 (13223)] INFO : Installing Rails 3+ middleware instrumentation
+[2018-04-22 01:29:20 +0300 eugene-Aspire-5560 (13223)] INFO : Installing Rails 5 Controller instrumentation
+[2018-04-22 01:29:20 +0300 eugene-Aspire-5560 (13223)] INFO : Installing Rails 5 Action Cable instrumentation
+[2018-04-22 01:29:20 +0300 eugene-Aspire-5560 (13223)] INFO : Installing Rails 5 view instrumentation
+[2018-04-22 01:29:20 +0300 eugene-Aspire-5560 (13223)] INFO : Finished instrumentation
+[2018-04-22 01:29:23 +0300 eugene-Aspire-5560 (13223)] INFO : Doing deferred dependency-detection before Rack startup
+[2018-04-22 01:29:57 +0300 eugene-Aspire-5560 (13223)] ERROR : Invalid license key, please contact support@newrelic.com
+[2018-04-22 01:29:57 +0300 eugene-Aspire-5560 (13223)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[2018-04-22 01:41:53 +0300 eugene-Aspire-5560 (14316)] INFO : Starting the New Relic agent version 5.0.0.342 in "development" environment.
+[2018-04-22 01:41:53 +0300 eugene-Aspire-5560 (14316)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2018-04-22 01:41:53 +0300 eugene-Aspire-5560 (14316)] WARN : No configuration file found. Working directory = /home/eugene/pi
+[2018-04-22 01:41:53 +0300 eugene-Aspire-5560 (14316)] WARN : Looked in these locations (based on defaults): /home/eugene/pi/config/newrelic.yml, /home/eugene/pi/newrelic.yml, /home/eugene/pi/config/newrelic.yml, /home/eugene/pi/newrelic.yml, /home/eugene/.newrelic/newrelic.yml, /home/eugene/newrelic.yml
+[2018-04-22 01:41:53 +0300 eugene-Aspire-5560 (14316)] INFO : Environment: development
+[2018-04-22 01:41:53 +0300 eugene-Aspire-5560 (14316)] INFO : No known dispatcher detected.
+[2018-04-22 01:41:53 +0300 eugene-Aspire-5560 (14316)] INFO : Application: development
+[2018-04-22 01:41:53 +0300 eugene-Aspire-5560 (14316)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2018-04-22 01:41:54 +0300 eugene-Aspire-5560 (14316)] INFO : Installing ActiveRecord 5 instrumentation
+[2018-04-22 01:41:54 +0300 eugene-Aspire-5560 (14316)] INFO : Installing http.rb instrumentation
+[2018-04-22 01:41:54 +0300 eugene-Aspire-5560 (14316)] INFO : Installing ActiveJob instrumentation
+[2018-04-22 01:41:54 +0300 eugene-Aspire-5560 (14316)] INFO : Installing deferred Rack::Builder instrumentation
+[2018-04-22 01:41:54 +0300 eugene-Aspire-5560 (14316)] INFO : Installing Rack::Builder middleware instrumentation
+[2018-04-22 01:41:54 +0300 eugene-Aspire-5560 (14316)] INFO : Installing Net instrumentation
+[2018-04-22 01:41:54 +0300 eugene-Aspire-5560 (14316)] INFO : Installing middleware-based Excon instrumentation
+[2018-04-22 01:41:54 +0300 eugene-Aspire-5560 (14316)] INFO : Installing Rails 3+ middleware instrumentation
+[2018-04-22 01:41:54 +0300 eugene-Aspire-5560 (14316)] INFO : Installing Rails 5 Controller instrumentation
+[2018-04-22 01:41:54 +0300 eugene-Aspire-5560 (14316)] INFO : Installing Rails 5 Action Cable instrumentation
+[2018-04-22 01:41:54 +0300 eugene-Aspire-5560 (14316)] INFO : Installing Rails 5 view instrumentation
+[2018-04-22 01:41:54 +0300 eugene-Aspire-5560 (14316)] INFO : Finished instrumentation
+[2018-04-22 01:42:49 +0300 eugene-Aspire-5560 (13223)] INFO : Starting Agent shutdown
+[2018-04-22 01:43:17 +0300 eugene-Aspire-5560 (14401)] INFO : Starting the New Relic agent version 5.0.0.342 in "development" environment.
+[2018-04-22 01:43:17 +0300 eugene-Aspire-5560 (14401)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2018-04-22 01:43:17 +0300 eugene-Aspire-5560 (14401)] WARN : No configuration file found. Working directory = /home/eugene/pi
+[2018-04-22 01:43:17 +0300 eugene-Aspire-5560 (14401)] WARN : Looked in these locations (based on defaults): /home/eugene/pi/config/newrelic.yml, /home/eugene/pi/newrelic.yml, /home/eugene/pi/config/newrelic.yml, /home/eugene/pi/newrelic.yml, /home/eugene/.newrelic/newrelic.yml, /home/eugene/newrelic.yml
+[2018-04-22 01:43:17 +0300 eugene-Aspire-5560 (14401)] INFO : Environment: development
+[2018-04-22 01:43:17 +0300 eugene-Aspire-5560 (14401)] INFO : No known dispatcher detected.
+[2018-04-22 01:43:17 +0300 eugene-Aspire-5560 (14401)] INFO : Application: development
+[2018-04-22 01:43:17 +0300 eugene-Aspire-5560 (14401)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2018-04-22 01:43:17 +0300 eugene-Aspire-5560 (14401)] INFO : Installing ActiveRecord 5 instrumentation
+[2018-04-22 01:43:17 +0300 eugene-Aspire-5560 (14401)] INFO : Installing http.rb instrumentation
+[2018-04-22 01:43:17 +0300 eugene-Aspire-5560 (14401)] INFO : Installing ActiveJob instrumentation
+[2018-04-22 01:43:17 +0300 eugene-Aspire-5560 (14401)] INFO : Installing deferred Rack::Builder instrumentation
+[2018-04-22 01:43:17 +0300 eugene-Aspire-5560 (14401)] INFO : Installing Rack::Builder middleware instrumentation
+[2018-04-22 01:43:17 +0300 eugene-Aspire-5560 (14401)] INFO : Installing Net instrumentation
+[2018-04-22 01:43:17 +0300 eugene-Aspire-5560 (14401)] INFO : Installing middleware-based Excon instrumentation
+[2018-04-22 01:43:17 +0300 eugene-Aspire-5560 (14401)] INFO : Installing Rails 3+ middleware instrumentation
+[2018-04-22 01:43:17 +0300 eugene-Aspire-5560 (14401)] INFO : Installing Rails 5 Controller instrumentation
+[2018-04-22 01:43:17 +0300 eugene-Aspire-5560 (14401)] INFO : Installing Rails 5 Action Cable instrumentation
+[2018-04-22 01:43:17 +0300 eugene-Aspire-5560 (14401)] INFO : Installing Rails 5 view instrumentation
+[2018-04-22 01:43:17 +0300 eugene-Aspire-5560 (14401)] INFO : Finished instrumentation
+[2018-04-22 01:43:19 +0300 eugene-Aspire-5560 (14401)] INFO : Doing deferred dependency-detection before Rack startup
+[2018-04-22 01:44:01 +0300 eugene-Aspire-5560 (14401)] ERROR : Invalid license key, please contact support@newrelic.com
+[2018-04-22 01:44:01 +0300 eugene-Aspire-5560 (14401)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[2018-04-22 01:49:06 +0300 eugene-Aspire-5560 (14720)] INFO : Starting the New Relic agent version 5.0.0.342 in "development" environment.
+[2018-04-22 01:49:07 +0300 eugene-Aspire-5560 (14720)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2018-04-22 01:49:07 +0300 eugene-Aspire-5560 (14720)] WARN : No configuration file found. Working directory = /home/eugene/pi
+[2018-04-22 01:49:07 +0300 eugene-Aspire-5560 (14720)] WARN : Looked in these locations (based on defaults): /home/eugene/pi/config/newrelic.yml, /home/eugene/pi/newrelic.yml, /home/eugene/pi/config/newrelic.yml, /home/eugene/pi/newrelic.yml, /home/eugene/.newrelic/newrelic.yml, /home/eugene/newrelic.yml
+[2018-04-22 01:49:07 +0300 eugene-Aspire-5560 (14720)] INFO : Environment: development
+[2018-04-22 01:49:07 +0300 eugene-Aspire-5560 (14720)] INFO : No known dispatcher detected.
+[2018-04-22 01:49:07 +0300 eugene-Aspire-5560 (14720)] INFO : Application: development
+[2018-04-22 01:49:07 +0300 eugene-Aspire-5560 (14720)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2018-04-22 01:49:07 +0300 eugene-Aspire-5560 (14720)] INFO : Installing ActiveRecord 5 instrumentation
+[2018-04-22 01:49:07 +0300 eugene-Aspire-5560 (14720)] INFO : Installing http.rb instrumentation
+[2018-04-22 01:49:07 +0300 eugene-Aspire-5560 (14720)] INFO : Installing ActiveJob instrumentation
+[2018-04-22 01:49:07 +0300 eugene-Aspire-5560 (14720)] INFO : Installing deferred Rack::Builder instrumentation
+[2018-04-22 01:49:07 +0300 eugene-Aspire-5560 (14720)] INFO : Installing Rack::Builder middleware instrumentation
+[2018-04-22 01:49:07 +0300 eugene-Aspire-5560 (14720)] INFO : Installing Net instrumentation
+[2018-04-22 01:49:07 +0300 eugene-Aspire-5560 (14720)] INFO : Installing middleware-based Excon instrumentation
+[2018-04-22 01:49:07 +0300 eugene-Aspire-5560 (14720)] INFO : Installing Rails 3+ middleware instrumentation
+[2018-04-22 01:49:07 +0300 eugene-Aspire-5560 (14720)] INFO : Installing Rails 5 Controller instrumentation
+[2018-04-22 01:49:07 +0300 eugene-Aspire-5560 (14720)] INFO : Installing Rails 5 Action Cable instrumentation
+[2018-04-22 01:49:07 +0300 eugene-Aspire-5560 (14720)] INFO : Installing Rails 5 view instrumentation
+[2018-04-22 01:49:07 +0300 eugene-Aspire-5560 (14720)] INFO : Finished instrumentation
+[2018-04-22 01:58:12 +0300 eugene-Aspire-5560 (14401)] INFO : Starting Agent shutdown
+[2018-04-22 02:00:22 +0300 eugene-Aspire-5560 (15452)] INFO : Starting the New Relic agent version 5.0.0.342 in "development" environment.
+[2018-04-22 02:00:22 +0300 eugene-Aspire-5560 (15452)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2018-04-22 02:00:22 +0300 eugene-Aspire-5560 (15452)] WARN : No configuration file found. Working directory = /home/eugene/pi
+[2018-04-22 02:00:22 +0300 eugene-Aspire-5560 (15452)] WARN : Looked in these locations (based on defaults): /home/eugene/pi/config/newrelic.yml, /home/eugene/pi/newrelic.yml, /home/eugene/pi/config/newrelic.yml, /home/eugene/pi/newrelic.yml, /home/eugene/.newrelic/newrelic.yml, /home/eugene/newrelic.yml
+[2018-04-22 02:00:22 +0300 eugene-Aspire-5560 (15452)] INFO : Environment: development
+[2018-04-22 02:00:22 +0300 eugene-Aspire-5560 (15452)] INFO : No known dispatcher detected.
+[2018-04-22 02:00:22 +0300 eugene-Aspire-5560 (15452)] INFO : Application: development
+[2018-04-22 02:00:22 +0300 eugene-Aspire-5560 (15452)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2018-04-22 02:00:22 +0300 eugene-Aspire-5560 (15452)] INFO : Installing ActiveRecord 5 instrumentation
+[2018-04-22 02:00:22 +0300 eugene-Aspire-5560 (15452)] INFO : Installing http.rb instrumentation
+[2018-04-22 02:00:22 +0300 eugene-Aspire-5560 (15452)] INFO : Installing ActiveJob instrumentation
+[2018-04-22 02:00:22 +0300 eugene-Aspire-5560 (15452)] INFO : Installing deferred Rack::Builder instrumentation
+[2018-04-22 02:00:22 +0300 eugene-Aspire-5560 (15452)] INFO : Installing Rack::Builder middleware instrumentation
+[2018-04-22 02:00:22 +0300 eugene-Aspire-5560 (15452)] INFO : Installing Net instrumentation
+[2018-04-22 02:00:22 +0300 eugene-Aspire-5560 (15452)] INFO : Installing middleware-based Excon instrumentation
+[2018-04-22 02:00:22 +0300 eugene-Aspire-5560 (15452)] INFO : Installing Rails 3+ middleware instrumentation
+[2018-04-22 02:00:22 +0300 eugene-Aspire-5560 (15452)] INFO : Installing Rails 5 Controller instrumentation
+[2018-04-22 02:00:22 +0300 eugene-Aspire-5560 (15452)] INFO : Installing Rails 5 Action Cable instrumentation
+[2018-04-22 02:00:22 +0300 eugene-Aspire-5560 (15452)] INFO : Installing Rails 5 view instrumentation
+[2018-04-22 02:00:22 +0300 eugene-Aspire-5560 (15452)] INFO : Finished instrumentation
+[2018-04-22 02:01:50 +0300 eugene-Aspire-5560 (15543)] INFO : Starting the New Relic agent version 5.0.0.342 in "development" environment.
+[2018-04-22 02:01:50 +0300 eugene-Aspire-5560 (15543)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2018-04-22 02:01:50 +0300 eugene-Aspire-5560 (15543)] WARN : No configuration file found. Working directory = /home/eugene/pi
+[2018-04-22 02:01:50 +0300 eugene-Aspire-5560 (15543)] WARN : Looked in these locations (based on defaults): /home/eugene/pi/config/newrelic.yml, /home/eugene/pi/newrelic.yml, /home/eugene/pi/config/newrelic.yml, /home/eugene/pi/newrelic.yml, /home/eugene/.newrelic/newrelic.yml, /home/eugene/newrelic.yml
+[2018-04-22 02:01:50 +0300 eugene-Aspire-5560 (15543)] INFO : Environment: development
+[2018-04-22 02:01:50 +0300 eugene-Aspire-5560 (15543)] INFO : No known dispatcher detected.
+[2018-04-22 02:01:50 +0300 eugene-Aspire-5560 (15543)] INFO : Application: development
+[2018-04-22 02:01:50 +0300 eugene-Aspire-5560 (15543)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2018-04-22 02:01:50 +0300 eugene-Aspire-5560 (15543)] INFO : Installing ActiveRecord 5 instrumentation
+[2018-04-22 02:01:50 +0300 eugene-Aspire-5560 (15543)] INFO : Installing http.rb instrumentation
+[2018-04-22 02:01:50 +0300 eugene-Aspire-5560 (15543)] INFO : Installing ActiveJob instrumentation
+[2018-04-22 02:01:50 +0300 eugene-Aspire-5560 (15543)] INFO : Installing deferred Rack::Builder instrumentation
+[2018-04-22 02:01:50 +0300 eugene-Aspire-5560 (15543)] INFO : Installing Rack::Builder middleware instrumentation
+[2018-04-22 02:01:50 +0300 eugene-Aspire-5560 (15543)] INFO : Installing Net instrumentation
+[2018-04-22 02:01:50 +0300 eugene-Aspire-5560 (15543)] INFO : Installing middleware-based Excon instrumentation
+[2018-04-22 02:01:50 +0300 eugene-Aspire-5560 (15543)] INFO : Installing Rails 3+ middleware instrumentation
+[2018-04-22 02:01:50 +0300 eugene-Aspire-5560 (15543)] INFO : Installing Rails 5 Controller instrumentation
+[2018-04-22 02:01:50 +0300 eugene-Aspire-5560 (15543)] INFO : Installing Rails 5 Action Cable instrumentation
+[2018-04-22 02:01:50 +0300 eugene-Aspire-5560 (15543)] INFO : Installing Rails 5 view instrumentation
+[2018-04-22 02:01:50 +0300 eugene-Aspire-5560 (15543)] INFO : Finished instrumentation
+[2018-04-22 02:02:28 +0300 eugene-Aspire-5560 (15614)] INFO : Starting the New Relic agent version 5.0.0.342 in "development" environment.
+[2018-04-22 02:02:28 +0300 eugene-Aspire-5560 (15614)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2018-04-22 02:02:28 +0300 eugene-Aspire-5560 (15614)] WARN : No configuration file found. Working directory = /home/eugene/pi
+[2018-04-22 02:02:28 +0300 eugene-Aspire-5560 (15614)] WARN : Looked in these locations (based on defaults): /home/eugene/pi/config/newrelic.yml, /home/eugene/pi/newrelic.yml, /home/eugene/pi/config/newrelic.yml, /home/eugene/pi/newrelic.yml, /home/eugene/.newrelic/newrelic.yml, /home/eugene/newrelic.yml
+[2018-04-22 02:02:28 +0300 eugene-Aspire-5560 (15614)] INFO : Environment: development
+[2018-04-22 02:02:28 +0300 eugene-Aspire-5560 (15614)] INFO : No known dispatcher detected.
+[2018-04-22 02:02:28 +0300 eugene-Aspire-5560 (15614)] INFO : Application: development
+[2018-04-22 02:02:28 +0300 eugene-Aspire-5560 (15614)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2018-04-22 02:02:28 +0300 eugene-Aspire-5560 (15614)] INFO : Installing ActiveRecord 5 instrumentation
+[2018-04-22 02:02:28 +0300 eugene-Aspire-5560 (15614)] INFO : Installing http.rb instrumentation
+[2018-04-22 02:02:28 +0300 eugene-Aspire-5560 (15614)] INFO : Installing ActiveJob instrumentation
+[2018-04-22 02:02:28 +0300 eugene-Aspire-5560 (15614)] INFO : Installing deferred Rack::Builder instrumentation
+[2018-04-22 02:02:28 +0300 eugene-Aspire-5560 (15614)] INFO : Installing Rack::Builder middleware instrumentation
+[2018-04-22 02:02:28 +0300 eugene-Aspire-5560 (15614)] INFO : Installing Net instrumentation
+[2018-04-22 02:02:28 +0300 eugene-Aspire-5560 (15614)] INFO : Installing middleware-based Excon instrumentation
+[2018-04-22 02:02:28 +0300 eugene-Aspire-5560 (15614)] INFO : Installing Rails 3+ middleware instrumentation
+[2018-04-22 02:02:28 +0300 eugene-Aspire-5560 (15614)] INFO : Installing Rails 5 Controller instrumentation
+[2018-04-22 02:02:28 +0300 eugene-Aspire-5560 (15614)] INFO : Installing Rails 5 Action Cable instrumentation
+[2018-04-22 02:02:28 +0300 eugene-Aspire-5560 (15614)] INFO : Installing Rails 5 view instrumentation
+[2018-04-22 02:02:28 +0300 eugene-Aspire-5560 (15614)] INFO : Finished instrumentation
+[2018-04-22 02:02:29 +0300 eugene-Aspire-5560 (15614)] INFO : Doing deferred dependency-detection before Rack startup
+[2018-04-22 02:02:44 +0300 eugene-Aspire-5560 (15614)] ERROR : Invalid license key, please contact support@newrelic.com
+[2018-04-22 02:02:44 +0300 eugene-Aspire-5560 (15614)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[2018-04-22 02:14:55 +0300 eugene-Aspire-5560 (15614)] INFO : Starting Agent shutdown
+[2018-04-22 10:35:56 +0300 eugene-Aspire-5560 (18004)] INFO : Starting the New Relic agent version 5.0.0.342 in "development" environment.
+[2018-04-22 10:35:57 +0300 eugene-Aspire-5560 (18004)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2018-04-22 10:35:57 +0300 eugene-Aspire-5560 (18004)] WARN : No configuration file found. Working directory = /home/eugene/pi
+[2018-04-22 10:35:57 +0300 eugene-Aspire-5560 (18004)] WARN : Looked in these locations (based on defaults): /home/eugene/pi/config/newrelic.yml, /home/eugene/pi/newrelic.yml, /home/eugene/pi/config/newrelic.yml, /home/eugene/pi/newrelic.yml, /home/eugene/.newrelic/newrelic.yml, /home/eugene/newrelic.yml
+[2018-04-22 10:35:57 +0300 eugene-Aspire-5560 (18004)] INFO : Environment: development
+[2018-04-22 10:35:57 +0300 eugene-Aspire-5560 (18004)] INFO : No known dispatcher detected.
+[2018-04-22 10:35:57 +0300 eugene-Aspire-5560 (18004)] INFO : Application: development
+[2018-04-22 10:35:57 +0300 eugene-Aspire-5560 (18004)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2018-04-22 10:35:57 +0300 eugene-Aspire-5560 (18004)] INFO : Installing ActiveRecord 5 instrumentation
+[2018-04-22 10:35:57 +0300 eugene-Aspire-5560 (18004)] INFO : Installing http.rb instrumentation
+[2018-04-22 10:35:57 +0300 eugene-Aspire-5560 (18004)] INFO : Installing ActiveJob instrumentation
+[2018-04-22 10:35:57 +0300 eugene-Aspire-5560 (18004)] INFO : Installing deferred Rack::Builder instrumentation
+[2018-04-22 10:35:57 +0300 eugene-Aspire-5560 (18004)] INFO : Installing Rack::Builder middleware instrumentation
+[2018-04-22 10:35:58 +0300 eugene-Aspire-5560 (18004)] INFO : Installing Net instrumentation
+[2018-04-22 10:35:58 +0300 eugene-Aspire-5560 (18004)] INFO : Installing middleware-based Excon instrumentation
+[2018-04-22 10:35:58 +0300 eugene-Aspire-5560 (18004)] INFO : Installing Rails 3+ middleware instrumentation
+[2018-04-22 10:35:58 +0300 eugene-Aspire-5560 (18004)] INFO : Installing Rails 5 Controller instrumentation
+[2018-04-22 10:35:58 +0300 eugene-Aspire-5560 (18004)] INFO : Installing Rails 5 Action Cable instrumentation
+[2018-04-22 10:35:58 +0300 eugene-Aspire-5560 (18004)] INFO : Installing Rails 5 view instrumentation
+[2018-04-22 10:35:58 +0300 eugene-Aspire-5560 (18004)] INFO : Finished instrumentation
+[2018-04-22 10:36:39 +0300 eugene-Aspire-5560 (18004)] INFO : Doing deferred dependency-detection before Rack startup
+[2018-04-22 10:36:49 +0300 eugene-Aspire-5560 (18004)] ERROR : Invalid license key, please contact support@newrelic.com
+[2018-04-22 10:36:49 +0300 eugene-Aspire-5560 (18004)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[2018-04-22 10:51:21 +0300 eugene-Aspire-5560 (18004)] INFO : Starting Agent shutdown
+[2018-04-22 10:51:55 +0300 eugene-Aspire-5560 (19307)] INFO : Starting the New Relic agent version 5.0.0.342 in "development" environment.
+[2018-04-22 10:51:55 +0300 eugene-Aspire-5560 (19307)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2018-04-22 10:51:55 +0300 eugene-Aspire-5560 (19307)] WARN : No configuration file found. Working directory = /home/eugene/pi
+[2018-04-22 10:51:55 +0300 eugene-Aspire-5560 (19307)] WARN : Looked in these locations (based on defaults): /home/eugene/pi/config/newrelic.yml, /home/eugene/pi/newrelic.yml, /home/eugene/pi/config/newrelic.yml, /home/eugene/pi/newrelic.yml, /home/eugene/.newrelic/newrelic.yml, /home/eugene/newrelic.yml
+[2018-04-22 10:51:55 +0300 eugene-Aspire-5560 (19307)] INFO : Environment: development
+[2018-04-22 10:51:55 +0300 eugene-Aspire-5560 (19307)] INFO : No known dispatcher detected.
+[2018-04-22 10:51:55 +0300 eugene-Aspire-5560 (19307)] INFO : Application: development
+[2018-04-22 10:51:55 +0300 eugene-Aspire-5560 (19307)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2018-04-22 10:51:55 +0300 eugene-Aspire-5560 (19307)] INFO : Installing ActiveRecord 5 instrumentation
+[2018-04-22 10:51:55 +0300 eugene-Aspire-5560 (19307)] INFO : Installing http.rb instrumentation
+[2018-04-22 10:51:55 +0300 eugene-Aspire-5560 (19307)] INFO : Installing ActiveJob instrumentation
+[2018-04-22 10:51:55 +0300 eugene-Aspire-5560 (19307)] INFO : Installing deferred Rack::Builder instrumentation
+[2018-04-22 10:51:55 +0300 eugene-Aspire-5560 (19307)] INFO : Installing Rack::Builder middleware instrumentation
+[2018-04-22 10:51:55 +0300 eugene-Aspire-5560 (19307)] INFO : Installing Net instrumentation
+[2018-04-22 10:51:55 +0300 eugene-Aspire-5560 (19307)] INFO : Installing middleware-based Excon instrumentation
+[2018-04-22 10:51:55 +0300 eugene-Aspire-5560 (19307)] INFO : Installing Rails 3+ middleware instrumentation
+[2018-04-22 10:51:55 +0300 eugene-Aspire-5560 (19307)] INFO : Installing Rails 5 Controller instrumentation
+[2018-04-22 10:51:55 +0300 eugene-Aspire-5560 (19307)] INFO : Installing Rails 5 Action Cable instrumentation
+[2018-04-22 10:51:55 +0300 eugene-Aspire-5560 (19307)] INFO : Installing Rails 5 view instrumentation
+[2018-04-22 10:51:55 +0300 eugene-Aspire-5560 (19307)] INFO : Finished instrumentation
+[2018-04-22 10:52:10 +0300 eugene-Aspire-5560 (19307)] INFO : Doing deferred dependency-detection before Rack startup
+[2018-04-22 10:54:41 +0300 eugene-Aspire-5560 (19307)] ERROR : Invalid license key, please contact support@newrelic.com
+[2018-04-22 10:54:42 +0300 eugene-Aspire-5560 (19307)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[2018-04-22 11:04:23 +0300 eugene-Aspire-5560 (19307)] INFO : Starting Agent shutdown
+[2018-04-22 11:05:10 +0300 eugene-Aspire-5560 (20084)] INFO : Starting the New Relic agent version 5.0.0.342 in "development" environment.
+[2018-04-22 11:05:10 +0300 eugene-Aspire-5560 (20084)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2018-04-22 11:05:10 +0300 eugene-Aspire-5560 (20084)] WARN : No configuration file found. Working directory = /home/eugene/pi
+[2018-04-22 11:05:10 +0300 eugene-Aspire-5560 (20084)] WARN : Looked in these locations (based on defaults): /home/eugene/pi/config/newrelic.yml, /home/eugene/pi/newrelic.yml, /home/eugene/pi/config/newrelic.yml, /home/eugene/pi/newrelic.yml, /home/eugene/.newrelic/newrelic.yml, /home/eugene/newrelic.yml
+[2018-04-22 11:05:10 +0300 eugene-Aspire-5560 (20084)] INFO : Environment: development
+[2018-04-22 11:05:10 +0300 eugene-Aspire-5560 (20084)] INFO : No known dispatcher detected.
+[2018-04-22 11:05:10 +0300 eugene-Aspire-5560 (20084)] INFO : Application: development
+[2018-04-22 11:05:10 +0300 eugene-Aspire-5560 (20084)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2018-04-22 11:05:10 +0300 eugene-Aspire-5560 (20084)] INFO : Installing ActiveRecord 5 instrumentation
+[2018-04-22 11:05:10 +0300 eugene-Aspire-5560 (20084)] INFO : Installing http.rb instrumentation
+[2018-04-22 11:05:10 +0300 eugene-Aspire-5560 (20084)] INFO : Installing ActiveJob instrumentation
+[2018-04-22 11:05:10 +0300 eugene-Aspire-5560 (20084)] INFO : Installing deferred Rack::Builder instrumentation
+[2018-04-22 11:05:10 +0300 eugene-Aspire-5560 (20084)] INFO : Installing Rack::Builder middleware instrumentation
+[2018-04-22 11:05:10 +0300 eugene-Aspire-5560 (20084)] INFO : Installing Net instrumentation
+[2018-04-22 11:05:10 +0300 eugene-Aspire-5560 (20084)] INFO : Installing middleware-based Excon instrumentation
+[2018-04-22 11:05:10 +0300 eugene-Aspire-5560 (20084)] INFO : Installing Rails 3+ middleware instrumentation
+[2018-04-22 11:05:10 +0300 eugene-Aspire-5560 (20084)] INFO : Installing Rails 5 Controller instrumentation
+[2018-04-22 11:05:10 +0300 eugene-Aspire-5560 (20084)] INFO : Installing Rails 5 Action Cable instrumentation
+[2018-04-22 11:05:10 +0300 eugene-Aspire-5560 (20084)] INFO : Installing Rails 5 view instrumentation
+[2018-04-22 11:05:10 +0300 eugene-Aspire-5560 (20084)] INFO : Finished instrumentation
+[2018-04-22 11:06:06 +0300 eugene-Aspire-5560 (20178)] INFO : Starting the New Relic agent version 5.0.0.342 in "development" environment.
+[2018-04-22 11:06:06 +0300 eugene-Aspire-5560 (20178)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2018-04-22 11:06:06 +0300 eugene-Aspire-5560 (20178)] WARN : No configuration file found. Working directory = /home/eugene/pi
+[2018-04-22 11:06:06 +0300 eugene-Aspire-5560 (20178)] WARN : Looked in these locations (based on defaults): /home/eugene/pi/config/newrelic.yml, /home/eugene/pi/newrelic.yml, /home/eugene/pi/config/newrelic.yml, /home/eugene/pi/newrelic.yml, /home/eugene/.newrelic/newrelic.yml, /home/eugene/newrelic.yml
+[2018-04-22 11:06:06 +0300 eugene-Aspire-5560 (20178)] INFO : Environment: development
+[2018-04-22 11:06:06 +0300 eugene-Aspire-5560 (20178)] INFO : No known dispatcher detected.
+[2018-04-22 11:06:06 +0300 eugene-Aspire-5560 (20178)] INFO : Application: development
+[2018-04-22 11:06:06 +0300 eugene-Aspire-5560 (20178)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2018-04-22 11:06:06 +0300 eugene-Aspire-5560 (20178)] INFO : Installing ActiveRecord 5 instrumentation
+[2018-04-22 11:06:06 +0300 eugene-Aspire-5560 (20178)] INFO : Installing http.rb instrumentation
+[2018-04-22 11:06:06 +0300 eugene-Aspire-5560 (20178)] INFO : Installing ActiveJob instrumentation
+[2018-04-22 11:06:06 +0300 eugene-Aspire-5560 (20178)] INFO : Installing deferred Rack::Builder instrumentation
+[2018-04-22 11:06:06 +0300 eugene-Aspire-5560 (20178)] INFO : Installing Rack::Builder middleware instrumentation
+[2018-04-22 11:06:06 +0300 eugene-Aspire-5560 (20178)] INFO : Installing Net instrumentation
+[2018-04-22 11:06:06 +0300 eugene-Aspire-5560 (20178)] INFO : Installing middleware-based Excon instrumentation
+[2018-04-22 11:06:06 +0300 eugene-Aspire-5560 (20178)] INFO : Installing Rails 3+ middleware instrumentation
+[2018-04-22 11:06:06 +0300 eugene-Aspire-5560 (20178)] INFO : Installing Rails 5 Controller instrumentation
+[2018-04-22 11:06:06 +0300 eugene-Aspire-5560 (20178)] INFO : Installing Rails 5 Action Cable instrumentation
+[2018-04-22 11:06:06 +0300 eugene-Aspire-5560 (20178)] INFO : Installing Rails 5 view instrumentation
+[2018-04-22 11:06:06 +0300 eugene-Aspire-5560 (20178)] INFO : Finished instrumentation
+[2018-04-22 11:06:07 +0300 eugene-Aspire-5560 (20178)] INFO : Doing deferred dependency-detection before Rack startup
+[2018-04-22 11:06:31 +0300 eugene-Aspire-5560 (20178)] ERROR : Invalid license key, please contact support@newrelic.com
+[2018-04-22 11:06:31 +0300 eugene-Aspire-5560 (20178)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[2018-04-22 11:41:55 +0300 eugene-Aspire-5560 (20178)] INFO : Starting Agent shutdown
+[2018-04-22 11:42:28 +0300 eugene-Aspire-5560 (21965)] INFO : Starting the New Relic agent version 5.0.0.342 in "development" environment.
+[2018-04-22 11:42:28 +0300 eugene-Aspire-5560 (21965)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2018-04-22 11:42:28 +0300 eugene-Aspire-5560 (21965)] WARN : No configuration file found. Working directory = /home/eugene/pi
+[2018-04-22 11:42:28 +0300 eugene-Aspire-5560 (21965)] WARN : Looked in these locations (based on defaults): /home/eugene/pi/config/newrelic.yml, /home/eugene/pi/newrelic.yml, /home/eugene/pi/config/newrelic.yml, /home/eugene/pi/newrelic.yml, /home/eugene/.newrelic/newrelic.yml, /home/eugene/newrelic.yml
+[2018-04-22 11:42:29 +0300 eugene-Aspire-5560 (21965)] INFO : Environment: development
+[2018-04-22 11:42:29 +0300 eugene-Aspire-5560 (21965)] INFO : No known dispatcher detected.
+[2018-04-22 11:42:29 +0300 eugene-Aspire-5560 (21965)] INFO : Application: development
+[2018-04-22 11:42:29 +0300 eugene-Aspire-5560 (21965)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2018-04-22 11:42:29 +0300 eugene-Aspire-5560 (21965)] INFO : Installing ActiveRecord 5 instrumentation
+[2018-04-22 11:42:29 +0300 eugene-Aspire-5560 (21965)] INFO : Installing http.rb instrumentation
+[2018-04-22 11:42:29 +0300 eugene-Aspire-5560 (21965)] INFO : Installing ActiveJob instrumentation
+[2018-04-22 11:42:29 +0300 eugene-Aspire-5560 (21965)] INFO : Installing deferred Rack::Builder instrumentation
+[2018-04-22 11:42:29 +0300 eugene-Aspire-5560 (21965)] INFO : Installing Rack::Builder middleware instrumentation
+[2018-04-22 11:42:29 +0300 eugene-Aspire-5560 (21965)] INFO : Installing Net instrumentation
+[2018-04-22 11:42:29 +0300 eugene-Aspire-5560 (21965)] INFO : Installing middleware-based Excon instrumentation
+[2018-04-22 11:42:29 +0300 eugene-Aspire-5560 (21965)] INFO : Installing Rails 3+ middleware instrumentation
+[2018-04-22 11:42:29 +0300 eugene-Aspire-5560 (21965)] INFO : Installing Rails 5 Controller instrumentation
+[2018-04-22 11:42:29 +0300 eugene-Aspire-5560 (21965)] INFO : Installing Rails 5 Action Cable instrumentation
+[2018-04-22 11:42:29 +0300 eugene-Aspire-5560 (21965)] INFO : Installing Rails 5 view instrumentation
+[2018-04-22 11:42:29 +0300 eugene-Aspire-5560 (21965)] INFO : Finished instrumentation
+[2018-04-22 11:43:10 +0300 eugene-Aspire-5560 (22063)] INFO : Starting the New Relic agent version 5.0.0.342 in "development" environment.
+[2018-04-22 11:43:10 +0300 eugene-Aspire-5560 (22063)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2018-04-22 11:43:10 +0300 eugene-Aspire-5560 (22063)] WARN : No configuration file found. Working directory = /home/eugene/pi
+[2018-04-22 11:43:10 +0300 eugene-Aspire-5560 (22063)] WARN : Looked in these locations (based on defaults): /home/eugene/pi/config/newrelic.yml, /home/eugene/pi/newrelic.yml, /home/eugene/pi/config/newrelic.yml, /home/eugene/pi/newrelic.yml, /home/eugene/.newrelic/newrelic.yml, /home/eugene/newrelic.yml
+[2018-04-22 11:43:10 +0300 eugene-Aspire-5560 (22063)] INFO : Environment: development
+[2018-04-22 11:43:10 +0300 eugene-Aspire-5560 (22063)] INFO : No known dispatcher detected.
+[2018-04-22 11:43:10 +0300 eugene-Aspire-5560 (22063)] INFO : Application: development
+[2018-04-22 11:43:10 +0300 eugene-Aspire-5560 (22063)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2018-04-22 11:43:10 +0300 eugene-Aspire-5560 (22063)] INFO : Installing ActiveRecord 5 instrumentation
+[2018-04-22 11:43:10 +0300 eugene-Aspire-5560 (22063)] INFO : Installing http.rb instrumentation
+[2018-04-22 11:43:10 +0300 eugene-Aspire-5560 (22063)] INFO : Installing ActiveJob instrumentation
+[2018-04-22 11:43:10 +0300 eugene-Aspire-5560 (22063)] INFO : Installing deferred Rack::Builder instrumentation
+[2018-04-22 11:43:10 +0300 eugene-Aspire-5560 (22063)] INFO : Installing Rack::Builder middleware instrumentation
+[2018-04-22 11:43:10 +0300 eugene-Aspire-5560 (22063)] INFO : Installing Net instrumentation
+[2018-04-22 11:43:10 +0300 eugene-Aspire-5560 (22063)] INFO : Installing middleware-based Excon instrumentation
+[2018-04-22 11:43:10 +0300 eugene-Aspire-5560 (22063)] INFO : Installing Rails 3+ middleware instrumentation
+[2018-04-22 11:43:10 +0300 eugene-Aspire-5560 (22063)] INFO : Installing Rails 5 Controller instrumentation
+[2018-04-22 11:43:10 +0300 eugene-Aspire-5560 (22063)] INFO : Installing Rails 5 Action Cable instrumentation
+[2018-04-22 11:43:10 +0300 eugene-Aspire-5560 (22063)] INFO : Installing Rails 5 view instrumentation
+[2018-04-22 11:43:10 +0300 eugene-Aspire-5560 (22063)] INFO : Finished instrumentation
+[2018-04-22 11:43:11 +0300 eugene-Aspire-5560 (22063)] INFO : Doing deferred dependency-detection before Rack startup
+[2018-04-22 11:43:19 +0300 eugene-Aspire-5560 (22063)] ERROR : Invalid license key, please contact support@newrelic.com
+[2018-04-22 11:43:19 +0300 eugene-Aspire-5560 (22063)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[2018-04-22 11:52:13 +0300 eugene-Aspire-5560 (22063)] INFO : Starting Agent shutdown
+[2018-04-22 11:52:52 +0300 eugene-Aspire-5560 (22709)] INFO : Starting the New Relic agent version 5.0.0.342 in "development" environment.
+[2018-04-22 11:52:52 +0300 eugene-Aspire-5560 (22709)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2018-04-22 11:52:52 +0300 eugene-Aspire-5560 (22709)] WARN : No configuration file found. Working directory = /home/eugene/pi
+[2018-04-22 11:52:52 +0300 eugene-Aspire-5560 (22709)] WARN : Looked in these locations (based on defaults): /home/eugene/pi/config/newrelic.yml, /home/eugene/pi/newrelic.yml, /home/eugene/pi/config/newrelic.yml, /home/eugene/pi/newrelic.yml, /home/eugene/.newrelic/newrelic.yml, /home/eugene/newrelic.yml
+[2018-04-22 11:52:52 +0300 eugene-Aspire-5560 (22709)] INFO : Environment: development
+[2018-04-22 11:52:52 +0300 eugene-Aspire-5560 (22709)] INFO : No known dispatcher detected.
+[2018-04-22 11:52:52 +0300 eugene-Aspire-5560 (22709)] INFO : Application: development
+[2018-04-22 11:52:52 +0300 eugene-Aspire-5560 (22709)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2018-04-22 11:52:52 +0300 eugene-Aspire-5560 (22709)] INFO : Installing ActiveRecord 5 instrumentation
+[2018-04-22 11:52:52 +0300 eugene-Aspire-5560 (22709)] INFO : Installing http.rb instrumentation
+[2018-04-22 11:52:52 +0300 eugene-Aspire-5560 (22709)] INFO : Installing ActiveJob instrumentation
+[2018-04-22 11:52:52 +0300 eugene-Aspire-5560 (22709)] INFO : Installing deferred Rack::Builder instrumentation
+[2018-04-22 11:52:52 +0300 eugene-Aspire-5560 (22709)] INFO : Installing Rack::Builder middleware instrumentation
+[2018-04-22 11:52:52 +0300 eugene-Aspire-5560 (22709)] INFO : Installing Net instrumentation
+[2018-04-22 11:52:52 +0300 eugene-Aspire-5560 (22709)] INFO : Installing middleware-based Excon instrumentation
+[2018-04-22 11:52:52 +0300 eugene-Aspire-5560 (22709)] INFO : Installing Rails 3+ middleware instrumentation
+[2018-04-22 11:52:52 +0300 eugene-Aspire-5560 (22709)] INFO : Installing Rails 5 Controller instrumentation
+[2018-04-22 11:52:52 +0300 eugene-Aspire-5560 (22709)] INFO : Installing Rails 5 Action Cable instrumentation
+[2018-04-22 11:52:52 +0300 eugene-Aspire-5560 (22709)] INFO : Installing Rails 5 view instrumentation
+[2018-04-22 11:52:52 +0300 eugene-Aspire-5560 (22709)] INFO : Finished instrumentation
+[2018-04-22 11:53:44 +0300 eugene-Aspire-5560 (22814)] INFO : Starting the New Relic agent version 5.0.0.342 in "development" environment.
+[2018-04-22 11:53:44 +0300 eugene-Aspire-5560 (22814)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2018-04-22 11:53:44 +0300 eugene-Aspire-5560 (22814)] WARN : No configuration file found. Working directory = /home/eugene/pi
+[2018-04-22 11:53:44 +0300 eugene-Aspire-5560 (22814)] WARN : Looked in these locations (based on defaults): /home/eugene/pi/config/newrelic.yml, /home/eugene/pi/newrelic.yml, /home/eugene/pi/config/newrelic.yml, /home/eugene/pi/newrelic.yml, /home/eugene/.newrelic/newrelic.yml, /home/eugene/newrelic.yml
+[2018-04-22 11:53:44 +0300 eugene-Aspire-5560 (22814)] INFO : Environment: development
+[2018-04-22 11:53:44 +0300 eugene-Aspire-5560 (22814)] INFO : No known dispatcher detected.
+[2018-04-22 11:53:44 +0300 eugene-Aspire-5560 (22814)] INFO : Application: development
+[2018-04-22 11:53:44 +0300 eugene-Aspire-5560 (22814)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2018-04-22 11:53:44 +0300 eugene-Aspire-5560 (22814)] INFO : Installing ActiveRecord 5 instrumentation
+[2018-04-22 11:53:44 +0300 eugene-Aspire-5560 (22814)] INFO : Installing http.rb instrumentation
+[2018-04-22 11:53:44 +0300 eugene-Aspire-5560 (22814)] INFO : Installing ActiveJob instrumentation
+[2018-04-22 11:53:44 +0300 eugene-Aspire-5560 (22814)] INFO : Installing deferred Rack::Builder instrumentation
+[2018-04-22 11:53:44 +0300 eugene-Aspire-5560 (22814)] INFO : Installing Rack::Builder middleware instrumentation
+[2018-04-22 11:53:44 +0300 eugene-Aspire-5560 (22814)] INFO : Installing Net instrumentation
+[2018-04-22 11:53:44 +0300 eugene-Aspire-5560 (22814)] INFO : Installing middleware-based Excon instrumentation
+[2018-04-22 11:53:44 +0300 eugene-Aspire-5560 (22814)] INFO : Installing Rails 3+ middleware instrumentation
+[2018-04-22 11:53:44 +0300 eugene-Aspire-5560 (22814)] INFO : Installing Rails 5 Controller instrumentation
+[2018-04-22 11:53:44 +0300 eugene-Aspire-5560 (22814)] INFO : Installing Rails 5 Action Cable instrumentation
+[2018-04-22 11:53:44 +0300 eugene-Aspire-5560 (22814)] INFO : Installing Rails 5 view instrumentation
+[2018-04-22 11:53:44 +0300 eugene-Aspire-5560 (22814)] INFO : Finished instrumentation
+[2018-04-22 11:53:45 +0300 eugene-Aspire-5560 (22814)] INFO : Doing deferred dependency-detection before Rack startup
+[2018-04-22 11:53:55 +0300 eugene-Aspire-5560 (22814)] ERROR : Invalid license key, please contact support@newrelic.com
+[2018-04-22 11:53:55 +0300 eugene-Aspire-5560 (22814)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[2018-04-22 16:00:53 +0300 eugene-Aspire-5560 (3295)] INFO : Starting the New Relic agent version 5.0.0.342 in "development" environment.
+[2018-04-22 16:00:53 +0300 eugene-Aspire-5560 (3295)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2018-04-22 16:00:53 +0300 eugene-Aspire-5560 (3295)] WARN : No configuration file found. Working directory = /home/eugene/pi
+[2018-04-22 16:00:53 +0300 eugene-Aspire-5560 (3295)] WARN : Looked in these locations (based on defaults): /home/eugene/pi/config/newrelic.yml, /home/eugene/pi/newrelic.yml, /home/eugene/pi/config/newrelic.yml, /home/eugene/pi/newrelic.yml, /home/eugene/.newrelic/newrelic.yml, /home/eugene/newrelic.yml
+[2018-04-22 16:00:54 +0300 eugene-Aspire-5560 (3295)] INFO : Environment: development
+[2018-04-22 16:00:54 +0300 eugene-Aspire-5560 (3295)] INFO : No known dispatcher detected.
+[2018-04-22 16:00:54 +0300 eugene-Aspire-5560 (3295)] INFO : Application: development
+[2018-04-22 16:00:54 +0300 eugene-Aspire-5560 (3295)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2018-04-22 16:00:54 +0300 eugene-Aspire-5560 (3295)] INFO : Installing ActiveRecord 5 instrumentation
+[2018-04-22 16:00:54 +0300 eugene-Aspire-5560 (3295)] INFO : Installing http.rb instrumentation
+[2018-04-22 16:00:54 +0300 eugene-Aspire-5560 (3295)] INFO : Installing ActiveJob instrumentation
+[2018-04-22 16:00:54 +0300 eugene-Aspire-5560 (3295)] INFO : Installing deferred Rack::Builder instrumentation
+[2018-04-22 16:00:54 +0300 eugene-Aspire-5560 (3295)] INFO : Installing Rack::Builder middleware instrumentation
+[2018-04-22 16:00:54 +0300 eugene-Aspire-5560 (3295)] INFO : Installing Net instrumentation
+[2018-04-22 16:00:54 +0300 eugene-Aspire-5560 (3295)] INFO : Installing middleware-based Excon instrumentation
+[2018-04-22 16:00:54 +0300 eugene-Aspire-5560 (3295)] INFO : Installing Rails 3+ middleware instrumentation
+[2018-04-22 16:00:54 +0300 eugene-Aspire-5560 (3295)] INFO : Installing Rails 5 Controller instrumentation
+[2018-04-22 16:00:54 +0300 eugene-Aspire-5560 (3295)] INFO : Installing Rails 5 Action Cable instrumentation
+[2018-04-22 16:00:54 +0300 eugene-Aspire-5560 (3295)] INFO : Installing Rails 5 view instrumentation
+[2018-04-22 16:00:54 +0300 eugene-Aspire-5560 (3295)] INFO : Finished instrumentation
+[2018-04-22 16:00:58 +0300 eugene-Aspire-5560 (3295)] INFO : Doing deferred dependency-detection before Rack startup
+[2018-04-22 16:01:52 +0300 eugene-Aspire-5560 (3295)] ERROR : Invalid license key, please contact support@newrelic.com
+[2018-04-22 16:01:52 +0300 eugene-Aspire-5560 (3295)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[2018-04-22 16:15:40 +0300 eugene-Aspire-5560 (3295)] INFO : Starting Agent shutdown
+[2018-04-22 16:23:03 +0300 eugene-Aspire-5560 (4279)] INFO : Starting the New Relic agent version 5.0.0.342 in "development" environment.
+[2018-04-22 16:23:03 +0300 eugene-Aspire-5560 (4279)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2018-04-22 16:23:03 +0300 eugene-Aspire-5560 (4279)] WARN : No configuration file found. Working directory = /home/eugene/pi
+[2018-04-22 16:23:03 +0300 eugene-Aspire-5560 (4279)] WARN : Looked in these locations (based on defaults): /home/eugene/pi/config/newrelic.yml, /home/eugene/pi/newrelic.yml, /home/eugene/pi/config/newrelic.yml, /home/eugene/pi/newrelic.yml, /home/eugene/.newrelic/newrelic.yml, /home/eugene/newrelic.yml
+[2018-04-22 16:23:04 +0300 eugene-Aspire-5560 (4279)] INFO : Environment: development
+[2018-04-22 16:23:04 +0300 eugene-Aspire-5560 (4279)] INFO : No known dispatcher detected.
+[2018-04-22 16:23:04 +0300 eugene-Aspire-5560 (4279)] INFO : Application: development
+[2018-04-22 16:23:04 +0300 eugene-Aspire-5560 (4279)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2018-04-22 16:23:04 +0300 eugene-Aspire-5560 (4279)] INFO : Installing ActiveRecord 5 instrumentation
+[2018-04-22 16:23:04 +0300 eugene-Aspire-5560 (4279)] INFO : Installing http.rb instrumentation
+[2018-04-22 16:23:04 +0300 eugene-Aspire-5560 (4279)] INFO : Installing ActiveJob instrumentation
+[2018-04-22 16:23:04 +0300 eugene-Aspire-5560 (4279)] INFO : Installing deferred Rack::Builder instrumentation
+[2018-04-22 16:23:04 +0300 eugene-Aspire-5560 (4279)] INFO : Installing Rack::Builder middleware instrumentation
+[2018-04-22 16:23:04 +0300 eugene-Aspire-5560 (4279)] INFO : Installing Net instrumentation
+[2018-04-22 16:23:04 +0300 eugene-Aspire-5560 (4279)] INFO : Installing middleware-based Excon instrumentation
+[2018-04-22 16:23:04 +0300 eugene-Aspire-5560 (4279)] INFO : Installing Rails 3+ middleware instrumentation
+[2018-04-22 16:23:04 +0300 eugene-Aspire-5560 (4279)] INFO : Installing Rails 5 Controller instrumentation
+[2018-04-22 16:23:04 +0300 eugene-Aspire-5560 (4279)] INFO : Installing Rails 5 Action Cable instrumentation
+[2018-04-22 16:23:04 +0300 eugene-Aspire-5560 (4279)] INFO : Installing Rails 5 view instrumentation
+[2018-04-22 16:23:04 +0300 eugene-Aspire-5560 (4279)] INFO : Finished instrumentation
+[2018-04-22 16:24:28 +0300 eugene-Aspire-5560 (4368)] INFO : Starting the New Relic agent version 5.0.0.342 in "development" environment.
+[2018-04-22 16:24:28 +0300 eugene-Aspire-5560 (4368)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2018-04-22 16:24:28 +0300 eugene-Aspire-5560 (4368)] WARN : No configuration file found. Working directory = /home/eugene/pi
+[2018-04-22 16:24:28 +0300 eugene-Aspire-5560 (4368)] WARN : Looked in these locations (based on defaults): /home/eugene/pi/config/newrelic.yml, /home/eugene/pi/newrelic.yml, /home/eugene/pi/config/newrelic.yml, /home/eugene/pi/newrelic.yml, /home/eugene/.newrelic/newrelic.yml, /home/eugene/newrelic.yml
+[2018-04-22 16:24:28 +0300 eugene-Aspire-5560 (4368)] INFO : Environment: development
+[2018-04-22 16:24:28 +0300 eugene-Aspire-5560 (4368)] INFO : No known dispatcher detected.
+[2018-04-22 16:24:28 +0300 eugene-Aspire-5560 (4368)] INFO : Application: development
+[2018-04-22 16:24:28 +0300 eugene-Aspire-5560 (4368)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2018-04-22 16:24:28 +0300 eugene-Aspire-5560 (4368)] INFO : Installing ActiveRecord 5 instrumentation
+[2018-04-22 16:24:28 +0300 eugene-Aspire-5560 (4368)] INFO : Installing http.rb instrumentation
+[2018-04-22 16:24:28 +0300 eugene-Aspire-5560 (4368)] INFO : Installing ActiveJob instrumentation
+[2018-04-22 16:24:28 +0300 eugene-Aspire-5560 (4368)] INFO : Installing deferred Rack::Builder instrumentation
+[2018-04-22 16:24:28 +0300 eugene-Aspire-5560 (4368)] INFO : Installing Rack::Builder middleware instrumentation
+[2018-04-22 16:24:28 +0300 eugene-Aspire-5560 (4368)] INFO : Installing Net instrumentation
+[2018-04-22 16:24:28 +0300 eugene-Aspire-5560 (4368)] INFO : Installing middleware-based Excon instrumentation
+[2018-04-22 16:24:28 +0300 eugene-Aspire-5560 (4368)] INFO : Installing Rails 3+ middleware instrumentation
+[2018-04-22 16:24:28 +0300 eugene-Aspire-5560 (4368)] INFO : Installing Rails 5 Controller instrumentation
+[2018-04-22 16:24:28 +0300 eugene-Aspire-5560 (4368)] INFO : Installing Rails 5 Action Cable instrumentation
+[2018-04-22 16:24:28 +0300 eugene-Aspire-5560 (4368)] INFO : Installing Rails 5 view instrumentation
+[2018-04-22 16:24:28 +0300 eugene-Aspire-5560 (4368)] INFO : Finished instrumentation
+[2018-04-22 16:25:56 +0300 eugene-Aspire-5560 (4457)] INFO : Starting the New Relic agent version 5.0.0.342 in "development" environment.
+[2018-04-22 16:25:56 +0300 eugene-Aspire-5560 (4457)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2018-04-22 16:25:56 +0300 eugene-Aspire-5560 (4457)] WARN : No configuration file found. Working directory = /home/eugene/pi
+[2018-04-22 16:25:56 +0300 eugene-Aspire-5560 (4457)] WARN : Looked in these locations (based on defaults): /home/eugene/pi/config/newrelic.yml, /home/eugene/pi/newrelic.yml, /home/eugene/pi/config/newrelic.yml, /home/eugene/pi/newrelic.yml, /home/eugene/.newrelic/newrelic.yml, /home/eugene/newrelic.yml
+[2018-04-22 16:25:56 +0300 eugene-Aspire-5560 (4457)] INFO : Environment: development
+[2018-04-22 16:25:56 +0300 eugene-Aspire-5560 (4457)] INFO : No known dispatcher detected.
+[2018-04-22 16:25:56 +0300 eugene-Aspire-5560 (4457)] INFO : Application: development
+[2018-04-22 16:25:56 +0300 eugene-Aspire-5560 (4457)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2018-04-22 16:25:56 +0300 eugene-Aspire-5560 (4457)] INFO : Installing ActiveRecord 5 instrumentation
+[2018-04-22 16:25:56 +0300 eugene-Aspire-5560 (4457)] INFO : Installing http.rb instrumentation
+[2018-04-22 16:25:56 +0300 eugene-Aspire-5560 (4457)] INFO : Installing ActiveJob instrumentation
+[2018-04-22 16:25:56 +0300 eugene-Aspire-5560 (4457)] INFO : Installing deferred Rack::Builder instrumentation
+[2018-04-22 16:25:56 +0300 eugene-Aspire-5560 (4457)] INFO : Installing Rack::Builder middleware instrumentation
+[2018-04-22 16:25:56 +0300 eugene-Aspire-5560 (4457)] INFO : Installing Net instrumentation
+[2018-04-22 16:25:56 +0300 eugene-Aspire-5560 (4457)] INFO : Installing middleware-based Excon instrumentation
+[2018-04-22 16:25:56 +0300 eugene-Aspire-5560 (4457)] INFO : Installing Rails 3+ middleware instrumentation
+[2018-04-22 16:25:56 +0300 eugene-Aspire-5560 (4457)] INFO : Installing Rails 5 Controller instrumentation
+[2018-04-22 16:25:56 +0300 eugene-Aspire-5560 (4457)] INFO : Installing Rails 5 Action Cable instrumentation
+[2018-04-22 16:25:56 +0300 eugene-Aspire-5560 (4457)] INFO : Installing Rails 5 view instrumentation
+[2018-04-22 16:25:56 +0300 eugene-Aspire-5560 (4457)] INFO : Finished instrumentation
+[2018-04-22 16:29:18 +0300 eugene-Aspire-5560 (4653)] INFO : Starting the New Relic agent version 5.0.0.342 in "development" environment.
+[2018-04-22 16:29:18 +0300 eugene-Aspire-5560 (4653)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2018-04-22 16:29:18 +0300 eugene-Aspire-5560 (4653)] WARN : No configuration file found. Working directory = /home/eugene/pi
+[2018-04-22 16:29:18 +0300 eugene-Aspire-5560 (4653)] WARN : Looked in these locations (based on defaults): /home/eugene/pi/config/newrelic.yml, /home/eugene/pi/newrelic.yml, /home/eugene/pi/config/newrelic.yml, /home/eugene/pi/newrelic.yml, /home/eugene/.newrelic/newrelic.yml, /home/eugene/newrelic.yml
+[2018-04-22 16:29:18 +0300 eugene-Aspire-5560 (4653)] INFO : Environment: development
+[2018-04-22 16:29:18 +0300 eugene-Aspire-5560 (4653)] INFO : No known dispatcher detected.
+[2018-04-22 16:29:18 +0300 eugene-Aspire-5560 (4653)] INFO : Application: development
+[2018-04-22 16:29:18 +0300 eugene-Aspire-5560 (4653)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2018-04-22 16:29:18 +0300 eugene-Aspire-5560 (4653)] INFO : Installing ActiveRecord 5 instrumentation
+[2018-04-22 16:29:18 +0300 eugene-Aspire-5560 (4653)] INFO : Installing http.rb instrumentation
+[2018-04-22 16:29:18 +0300 eugene-Aspire-5560 (4653)] INFO : Installing ActiveJob instrumentation
+[2018-04-22 16:29:18 +0300 eugene-Aspire-5560 (4653)] INFO : Installing deferred Rack::Builder instrumentation
+[2018-04-22 16:29:18 +0300 eugene-Aspire-5560 (4653)] INFO : Installing Rack::Builder middleware instrumentation
+[2018-04-22 16:29:18 +0300 eugene-Aspire-5560 (4653)] INFO : Installing Net instrumentation
+[2018-04-22 16:29:18 +0300 eugene-Aspire-5560 (4653)] INFO : Installing middleware-based Excon instrumentation
+[2018-04-22 16:29:18 +0300 eugene-Aspire-5560 (4653)] INFO : Installing Rails 3+ middleware instrumentation
+[2018-04-22 16:29:18 +0300 eugene-Aspire-5560 (4653)] INFO : Installing Rails 5 Controller instrumentation
+[2018-04-22 16:29:18 +0300 eugene-Aspire-5560 (4653)] INFO : Installing Rails 5 Action Cable instrumentation
+[2018-04-22 16:29:18 +0300 eugene-Aspire-5560 (4653)] INFO : Installing Rails 5 view instrumentation
+[2018-04-22 16:29:18 +0300 eugene-Aspire-5560 (4653)] INFO : Finished instrumentation
+[2018-04-22 16:30:21 +0300 eugene-Aspire-5560 (4726)] INFO : Starting the New Relic agent version 5.0.0.342 in "development" environment.
+[2018-04-22 16:30:21 +0300 eugene-Aspire-5560 (4726)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2018-04-22 16:30:21 +0300 eugene-Aspire-5560 (4726)] WARN : No configuration file found. Working directory = /home/eugene/pi
+[2018-04-22 16:30:21 +0300 eugene-Aspire-5560 (4726)] WARN : Looked in these locations (based on defaults): /home/eugene/pi/config/newrelic.yml, /home/eugene/pi/newrelic.yml, /home/eugene/pi/config/newrelic.yml, /home/eugene/pi/newrelic.yml, /home/eugene/.newrelic/newrelic.yml, /home/eugene/newrelic.yml
+[2018-04-22 16:30:21 +0300 eugene-Aspire-5560 (4726)] INFO : Environment: development
+[2018-04-22 16:30:21 +0300 eugene-Aspire-5560 (4726)] INFO : No known dispatcher detected.
+[2018-04-22 16:30:21 +0300 eugene-Aspire-5560 (4726)] INFO : Application: development
+[2018-04-22 16:30:21 +0300 eugene-Aspire-5560 (4726)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2018-04-22 16:30:21 +0300 eugene-Aspire-5560 (4726)] INFO : Installing ActiveRecord 5 instrumentation
+[2018-04-22 16:30:21 +0300 eugene-Aspire-5560 (4726)] INFO : Installing http.rb instrumentation
+[2018-04-22 16:30:21 +0300 eugene-Aspire-5560 (4726)] INFO : Installing ActiveJob instrumentation
+[2018-04-22 16:30:21 +0300 eugene-Aspire-5560 (4726)] INFO : Installing deferred Rack::Builder instrumentation
+[2018-04-22 16:30:21 +0300 eugene-Aspire-5560 (4726)] INFO : Installing Rack::Builder middleware instrumentation
+[2018-04-22 16:30:21 +0300 eugene-Aspire-5560 (4726)] INFO : Installing Net instrumentation
+[2018-04-22 16:30:21 +0300 eugene-Aspire-5560 (4726)] INFO : Installing middleware-based Excon instrumentation
+[2018-04-22 16:30:21 +0300 eugene-Aspire-5560 (4726)] INFO : Installing Rails 3+ middleware instrumentation
+[2018-04-22 16:30:21 +0300 eugene-Aspire-5560 (4726)] INFO : Installing Rails 5 Controller instrumentation
+[2018-04-22 16:30:21 +0300 eugene-Aspire-5560 (4726)] INFO : Installing Rails 5 Action Cable instrumentation
+[2018-04-22 16:30:21 +0300 eugene-Aspire-5560 (4726)] INFO : Installing Rails 5 view instrumentation
+[2018-04-22 16:30:21 +0300 eugene-Aspire-5560 (4726)] INFO : Finished instrumentation
+[2018-04-22 16:37:13 +0300 eugene-Aspire-5560 (5234)] INFO : Starting the New Relic agent version 5.0.0.342 in "development" environment.
+[2018-04-22 16:37:13 +0300 eugene-Aspire-5560 (5234)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2018-04-22 16:37:13 +0300 eugene-Aspire-5560 (5234)] WARN : No configuration file found. Working directory = /home/eugene/pi
+[2018-04-22 16:37:13 +0300 eugene-Aspire-5560 (5234)] WARN : Looked in these locations (based on defaults): /home/eugene/pi/config/newrelic.yml, /home/eugene/pi/newrelic.yml, /home/eugene/pi/config/newrelic.yml, /home/eugene/pi/newrelic.yml, /home/eugene/.newrelic/newrelic.yml, /home/eugene/newrelic.yml
+[2018-04-22 16:37:13 +0300 eugene-Aspire-5560 (5234)] INFO : Environment: development
+[2018-04-22 16:37:13 +0300 eugene-Aspire-5560 (5234)] INFO : No known dispatcher detected.
+[2018-04-22 16:37:13 +0300 eugene-Aspire-5560 (5234)] INFO : Application: development
+[2018-04-22 16:37:13 +0300 eugene-Aspire-5560 (5234)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2018-04-22 16:37:13 +0300 eugene-Aspire-5560 (5234)] INFO : Installing ActiveRecord 5 instrumentation
+[2018-04-22 16:37:13 +0300 eugene-Aspire-5560 (5234)] INFO : Installing http.rb instrumentation
+[2018-04-22 16:37:13 +0300 eugene-Aspire-5560 (5234)] INFO : Installing ActiveJob instrumentation
+[2018-04-22 16:37:13 +0300 eugene-Aspire-5560 (5234)] INFO : Installing deferred Rack::Builder instrumentation
+[2018-04-22 16:37:13 +0300 eugene-Aspire-5560 (5234)] INFO : Installing Rack::Builder middleware instrumentation
+[2018-04-22 16:37:13 +0300 eugene-Aspire-5560 (5234)] INFO : Installing Net instrumentation
+[2018-04-22 16:37:13 +0300 eugene-Aspire-5560 (5234)] INFO : Installing middleware-based Excon instrumentation
+[2018-04-22 16:37:13 +0300 eugene-Aspire-5560 (5234)] INFO : Installing Rails 3+ middleware instrumentation
+[2018-04-22 16:37:13 +0300 eugene-Aspire-5560 (5234)] INFO : Installing Rails 5 Controller instrumentation
+[2018-04-22 16:37:13 +0300 eugene-Aspire-5560 (5234)] INFO : Installing Rails 5 Action Cable instrumentation
+[2018-04-22 16:37:13 +0300 eugene-Aspire-5560 (5234)] INFO : Installing Rails 5 view instrumentation
+[2018-04-22 16:37:13 +0300 eugene-Aspire-5560 (5234)] INFO : Finished instrumentation
+[2018-04-22 16:38:47 +0300 eugene-Aspire-5560 (5410)] INFO : Starting the New Relic agent version 5.0.0.342 in "development" environment.
+[2018-04-22 16:38:47 +0300 eugene-Aspire-5560 (5410)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2018-04-22 16:38:47 +0300 eugene-Aspire-5560 (5410)] WARN : No configuration file found. Working directory = /home/eugene/pi
+[2018-04-22 16:38:47 +0300 eugene-Aspire-5560 (5410)] WARN : Looked in these locations (based on defaults): /home/eugene/pi/config/newrelic.yml, /home/eugene/pi/newrelic.yml, /home/eugene/pi/config/newrelic.yml, /home/eugene/pi/newrelic.yml, /home/eugene/.newrelic/newrelic.yml, /home/eugene/newrelic.yml
+[2018-04-22 16:38:47 +0300 eugene-Aspire-5560 (5410)] INFO : Environment: development
+[2018-04-22 16:38:47 +0300 eugene-Aspire-5560 (5410)] INFO : No known dispatcher detected.
+[2018-04-22 16:38:47 +0300 eugene-Aspire-5560 (5410)] INFO : Application: development
+[2018-04-22 16:38:47 +0300 eugene-Aspire-5560 (5410)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2018-04-22 16:38:47 +0300 eugene-Aspire-5560 (5410)] INFO : Installing ActiveRecord 5 instrumentation
+[2018-04-22 16:38:47 +0300 eugene-Aspire-5560 (5410)] INFO : Installing http.rb instrumentation
+[2018-04-22 16:38:47 +0300 eugene-Aspire-5560 (5410)] INFO : Installing ActiveJob instrumentation
+[2018-04-22 16:38:47 +0300 eugene-Aspire-5560 (5410)] INFO : Installing deferred Rack::Builder instrumentation
+[2018-04-22 16:38:47 +0300 eugene-Aspire-5560 (5410)] INFO : Installing Rack::Builder middleware instrumentation
+[2018-04-22 16:38:47 +0300 eugene-Aspire-5560 (5410)] INFO : Installing Net instrumentation
+[2018-04-22 16:38:47 +0300 eugene-Aspire-5560 (5410)] INFO : Installing middleware-based Excon instrumentation
+[2018-04-22 16:38:47 +0300 eugene-Aspire-5560 (5410)] INFO : Installing Rails 3+ middleware instrumentation
+[2018-04-22 16:38:47 +0300 eugene-Aspire-5560 (5410)] INFO : Installing Rails 5 Controller instrumentation
+[2018-04-22 16:38:47 +0300 eugene-Aspire-5560 (5410)] INFO : Installing Rails 5 Action Cable instrumentation
+[2018-04-22 16:38:47 +0300 eugene-Aspire-5560 (5410)] INFO : Installing Rails 5 view instrumentation
+[2018-04-22 16:38:47 +0300 eugene-Aspire-5560 (5410)] INFO : Finished instrumentation
+[2018-04-22 16:39:46 +0300 eugene-Aspire-5560 (5496)] INFO : Starting the New Relic agent version 5.0.0.342 in "development" environment.
+[2018-04-22 16:39:46 +0300 eugene-Aspire-5560 (5496)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2018-04-22 16:39:46 +0300 eugene-Aspire-5560 (5496)] WARN : No configuration file found. Working directory = /home/eugene/pi
+[2018-04-22 16:39:46 +0300 eugene-Aspire-5560 (5496)] WARN : Looked in these locations (based on defaults): /home/eugene/pi/config/newrelic.yml, /home/eugene/pi/newrelic.yml, /home/eugene/pi/config/newrelic.yml, /home/eugene/pi/newrelic.yml, /home/eugene/.newrelic/newrelic.yml, /home/eugene/newrelic.yml
+[2018-04-22 16:39:46 +0300 eugene-Aspire-5560 (5496)] INFO : Environment: development
+[2018-04-22 16:39:46 +0300 eugene-Aspire-5560 (5496)] INFO : No known dispatcher detected.
+[2018-04-22 16:39:46 +0300 eugene-Aspire-5560 (5496)] INFO : Application: development
+[2018-04-22 16:39:46 +0300 eugene-Aspire-5560 (5496)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2018-04-22 16:39:47 +0300 eugene-Aspire-5560 (5496)] INFO : Installing ActiveRecord 5 instrumentation
+[2018-04-22 16:39:47 +0300 eugene-Aspire-5560 (5496)] INFO : Installing http.rb instrumentation
+[2018-04-22 16:39:47 +0300 eugene-Aspire-5560 (5496)] INFO : Installing ActiveJob instrumentation
+[2018-04-22 16:39:47 +0300 eugene-Aspire-5560 (5496)] INFO : Installing deferred Rack::Builder instrumentation
+[2018-04-22 16:39:47 +0300 eugene-Aspire-5560 (5496)] INFO : Installing Rack::Builder middleware instrumentation
+[2018-04-22 16:39:47 +0300 eugene-Aspire-5560 (5496)] INFO : Installing Net instrumentation
+[2018-04-22 16:39:47 +0300 eugene-Aspire-5560 (5496)] INFO : Installing middleware-based Excon instrumentation
+[2018-04-22 16:39:47 +0300 eugene-Aspire-5560 (5496)] INFO : Installing Rails 3+ middleware instrumentation
+[2018-04-22 16:39:47 +0300 eugene-Aspire-5560 (5496)] INFO : Installing Rails 5 Controller instrumentation
+[2018-04-22 16:39:47 +0300 eugene-Aspire-5560 (5496)] INFO : Installing Rails 5 Action Cable instrumentation
+[2018-04-22 16:39:47 +0300 eugene-Aspire-5560 (5496)] INFO : Installing Rails 5 view instrumentation
+[2018-04-22 16:39:47 +0300 eugene-Aspire-5560 (5496)] INFO : Finished instrumentation
+[2018-04-22 16:49:28 +0300 eugene-Aspire-5560 (6065)] INFO : Starting the New Relic agent version 5.0.0.342 in "development" environment.
+[2018-04-22 16:49:28 +0300 eugene-Aspire-5560 (6065)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2018-04-22 16:49:28 +0300 eugene-Aspire-5560 (6065)] WARN : No configuration file found. Working directory = /home/eugene/pi
+[2018-04-22 16:49:28 +0300 eugene-Aspire-5560 (6065)] WARN : Looked in these locations (based on defaults): /home/eugene/pi/config/newrelic.yml, /home/eugene/pi/newrelic.yml, /home/eugene/pi/config/newrelic.yml, /home/eugene/pi/newrelic.yml, /home/eugene/.newrelic/newrelic.yml, /home/eugene/newrelic.yml
+[2018-04-22 16:49:28 +0300 eugene-Aspire-5560 (6065)] INFO : Environment: development
+[2018-04-22 16:49:28 +0300 eugene-Aspire-5560 (6065)] INFO : No known dispatcher detected.
+[2018-04-22 16:49:28 +0300 eugene-Aspire-5560 (6065)] INFO : Application: development
+[2018-04-22 16:49:28 +0300 eugene-Aspire-5560 (6065)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2018-04-22 16:49:28 +0300 eugene-Aspire-5560 (6065)] INFO : Installing ActiveRecord 5 instrumentation
+[2018-04-22 16:49:28 +0300 eugene-Aspire-5560 (6065)] INFO : Installing http.rb instrumentation
+[2018-04-22 16:49:28 +0300 eugene-Aspire-5560 (6065)] INFO : Installing ActiveJob instrumentation
+[2018-04-22 16:49:28 +0300 eugene-Aspire-5560 (6065)] INFO : Installing deferred Rack::Builder instrumentation
+[2018-04-22 16:49:28 +0300 eugene-Aspire-5560 (6065)] INFO : Installing Rack::Builder middleware instrumentation
+[2018-04-22 16:49:28 +0300 eugene-Aspire-5560 (6065)] INFO : Installing Net instrumentation
+[2018-04-22 16:49:28 +0300 eugene-Aspire-5560 (6065)] INFO : Installing middleware-based Excon instrumentation
+[2018-04-22 16:49:28 +0300 eugene-Aspire-5560 (6065)] INFO : Installing Rails 3+ middleware instrumentation
+[2018-04-22 16:49:28 +0300 eugene-Aspire-5560 (6065)] INFO : Installing Rails 5 Controller instrumentation
+[2018-04-22 16:49:28 +0300 eugene-Aspire-5560 (6065)] INFO : Installing Rails 5 Action Cable instrumentation
+[2018-04-22 16:49:28 +0300 eugene-Aspire-5560 (6065)] INFO : Installing Rails 5 view instrumentation
+[2018-04-22 16:49:28 +0300 eugene-Aspire-5560 (6065)] INFO : Finished instrumentation
+[2018-04-22 16:51:04 +0300 eugene-Aspire-5560 (6235)] INFO : Starting the New Relic agent version 5.0.0.342 in "development" environment.
+[2018-04-22 16:51:04 +0300 eugene-Aspire-5560 (6235)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2018-04-22 16:51:04 +0300 eugene-Aspire-5560 (6235)] WARN : No configuration file found. Working directory = /home/eugene/pi
+[2018-04-22 16:51:04 +0300 eugene-Aspire-5560 (6235)] WARN : Looked in these locations (based on defaults): /home/eugene/pi/config/newrelic.yml, /home/eugene/pi/newrelic.yml, /home/eugene/pi/config/newrelic.yml, /home/eugene/pi/newrelic.yml, /home/eugene/.newrelic/newrelic.yml, /home/eugene/newrelic.yml
+[2018-04-22 16:51:04 +0300 eugene-Aspire-5560 (6235)] INFO : Environment: development
+[2018-04-22 16:51:04 +0300 eugene-Aspire-5560 (6235)] INFO : No known dispatcher detected.
+[2018-04-22 16:51:04 +0300 eugene-Aspire-5560 (6235)] INFO : Application: development
+[2018-04-22 16:51:04 +0300 eugene-Aspire-5560 (6235)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2018-04-22 16:51:04 +0300 eugene-Aspire-5560 (6235)] INFO : Installing ActiveRecord 5 instrumentation
+[2018-04-22 16:51:04 +0300 eugene-Aspire-5560 (6235)] INFO : Installing http.rb instrumentation
+[2018-04-22 16:51:04 +0300 eugene-Aspire-5560 (6235)] INFO : Installing ActiveJob instrumentation
+[2018-04-22 16:51:04 +0300 eugene-Aspire-5560 (6235)] INFO : Installing deferred Rack::Builder instrumentation
+[2018-04-22 16:51:04 +0300 eugene-Aspire-5560 (6235)] INFO : Installing Rack::Builder middleware instrumentation
+[2018-04-22 16:51:04 +0300 eugene-Aspire-5560 (6235)] INFO : Installing Net instrumentation
+[2018-04-22 16:51:04 +0300 eugene-Aspire-5560 (6235)] INFO : Installing middleware-based Excon instrumentation
+[2018-04-22 16:51:04 +0300 eugene-Aspire-5560 (6235)] INFO : Installing Rails 3+ middleware instrumentation
+[2018-04-22 16:51:04 +0300 eugene-Aspire-5560 (6235)] INFO : Installing Rails 5 Controller instrumentation
+[2018-04-22 16:51:04 +0300 eugene-Aspire-5560 (6235)] INFO : Installing Rails 5 Action Cable instrumentation
+[2018-04-22 16:51:04 +0300 eugene-Aspire-5560 (6235)] INFO : Installing Rails 5 view instrumentation
+[2018-04-22 16:51:04 +0300 eugene-Aspire-5560 (6235)] INFO : Finished instrumentation
+[2018-04-22 17:00:12 +0300 eugene-Aspire-5560 (6881)] INFO : Starting the New Relic agent version 5.0.0.342 in "development" environment.
+[2018-04-22 17:00:12 +0300 eugene-Aspire-5560 (6881)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2018-04-22 17:00:12 +0300 eugene-Aspire-5560 (6881)] WARN : No configuration file found. Working directory = /home/eugene/pi
+[2018-04-22 17:00:12 +0300 eugene-Aspire-5560 (6881)] WARN : Looked in these locations (based on defaults): /home/eugene/pi/config/newrelic.yml, /home/eugene/pi/newrelic.yml, /home/eugene/pi/config/newrelic.yml, /home/eugene/pi/newrelic.yml, /home/eugene/.newrelic/newrelic.yml, /home/eugene/newrelic.yml
+[2018-04-22 17:00:12 +0300 eugene-Aspire-5560 (6881)] INFO : Environment: development
+[2018-04-22 17:00:12 +0300 eugene-Aspire-5560 (6881)] INFO : No known dispatcher detected.
+[2018-04-22 17:00:12 +0300 eugene-Aspire-5560 (6881)] INFO : Application: development
+[2018-04-22 17:00:12 +0300 eugene-Aspire-5560 (6881)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2018-04-22 17:00:12 +0300 eugene-Aspire-5560 (6881)] INFO : Installing ActiveRecord 5 instrumentation
+[2018-04-22 17:00:12 +0300 eugene-Aspire-5560 (6881)] INFO : Installing http.rb instrumentation
+[2018-04-22 17:00:12 +0300 eugene-Aspire-5560 (6881)] INFO : Installing ActiveJob instrumentation
+[2018-04-22 17:00:12 +0300 eugene-Aspire-5560 (6881)] INFO : Installing deferred Rack::Builder instrumentation
+[2018-04-22 17:00:12 +0300 eugene-Aspire-5560 (6881)] INFO : Installing Rack::Builder middleware instrumentation
+[2018-04-22 17:00:12 +0300 eugene-Aspire-5560 (6881)] INFO : Installing Net instrumentation
+[2018-04-22 17:00:12 +0300 eugene-Aspire-5560 (6881)] INFO : Installing middleware-based Excon instrumentation
+[2018-04-22 17:00:12 +0300 eugene-Aspire-5560 (6881)] INFO : Installing Rails 3+ middleware instrumentation
+[2018-04-22 17:00:12 +0300 eugene-Aspire-5560 (6881)] INFO : Installing Rails 5 Controller instrumentation
+[2018-04-22 17:00:12 +0300 eugene-Aspire-5560 (6881)] INFO : Installing Rails 5 Action Cable instrumentation
+[2018-04-22 17:00:12 +0300 eugene-Aspire-5560 (6881)] INFO : Installing Rails 5 view instrumentation
+[2018-04-22 17:00:12 +0300 eugene-Aspire-5560 (6881)] INFO : Finished instrumentation
+[2018-04-22 17:54:18 +0300 eugene-Aspire-5560 (7868)] INFO : Starting the New Relic agent version 5.0.0.342 in "development" environment.
+[2018-04-22 17:54:18 +0300 eugene-Aspire-5560 (7868)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2018-04-22 17:54:18 +0300 eugene-Aspire-5560 (7868)] WARN : No configuration file found. Working directory = /home/eugene/pi
+[2018-04-22 17:54:18 +0300 eugene-Aspire-5560 (7868)] WARN : Looked in these locations (based on defaults): /home/eugene/pi/config/newrelic.yml, /home/eugene/pi/newrelic.yml, /home/eugene/pi/config/newrelic.yml, /home/eugene/pi/newrelic.yml, /home/eugene/.newrelic/newrelic.yml, /home/eugene/newrelic.yml
+[2018-04-22 17:54:18 +0300 eugene-Aspire-5560 (7868)] INFO : Environment: development
+[2018-04-22 17:54:18 +0300 eugene-Aspire-5560 (7868)] INFO : No known dispatcher detected.
+[2018-04-22 17:54:18 +0300 eugene-Aspire-5560 (7868)] INFO : Application: development
+[2018-04-22 17:54:18 +0300 eugene-Aspire-5560 (7868)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2018-04-22 17:54:18 +0300 eugene-Aspire-5560 (7868)] INFO : Installing ActiveRecord 5 instrumentation
+[2018-04-22 17:54:18 +0300 eugene-Aspire-5560 (7868)] INFO : Installing http.rb instrumentation
+[2018-04-22 17:54:18 +0300 eugene-Aspire-5560 (7868)] INFO : Installing ActiveJob instrumentation
+[2018-04-22 17:54:18 +0300 eugene-Aspire-5560 (7868)] INFO : Installing deferred Rack::Builder instrumentation
+[2018-04-22 17:54:18 +0300 eugene-Aspire-5560 (7868)] INFO : Installing Rack::Builder middleware instrumentation
+[2018-04-22 17:54:18 +0300 eugene-Aspire-5560 (7868)] INFO : Installing Net instrumentation
+[2018-04-22 17:54:18 +0300 eugene-Aspire-5560 (7868)] INFO : Installing middleware-based Excon instrumentation
+[2018-04-22 17:54:18 +0300 eugene-Aspire-5560 (7868)] INFO : Installing Rails 3+ middleware instrumentation
+[2018-04-22 17:54:18 +0300 eugene-Aspire-5560 (7868)] INFO : Installing Rails 5 Controller instrumentation
+[2018-04-22 17:54:18 +0300 eugene-Aspire-5560 (7868)] INFO : Installing Rails 5 Action Cable instrumentation
+[2018-04-22 17:54:18 +0300 eugene-Aspire-5560 (7868)] INFO : Installing Rails 5 view instrumentation
+[2018-04-22 17:54:18 +0300 eugene-Aspire-5560 (7868)] INFO : Finished instrumentation
+[2018-04-22 17:54:19 +0300 eugene-Aspire-5560 (7868)] INFO : Doing deferred dependency-detection before Rack startup
+[2018-04-22 17:55:01 +0300 eugene-Aspire-5560 (7868)] ERROR : Invalid license key, please contact support@newrelic.com
+[2018-04-22 17:55:01 +0300 eugene-Aspire-5560 (7868)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[2018-04-22 18:00:40 +0300 eugene-Aspire-5560 (8228)] INFO : Starting the New Relic agent version 5.0.0.342 in "development" environment.
+[2018-04-22 18:00:40 +0300 eugene-Aspire-5560 (8228)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2018-04-22 18:00:40 +0300 eugene-Aspire-5560 (8228)] WARN : No configuration file found. Working directory = /home/eugene/pi
+[2018-04-22 18:00:40 +0300 eugene-Aspire-5560 (8228)] WARN : Looked in these locations (based on defaults): /home/eugene/pi/config/newrelic.yml, /home/eugene/pi/newrelic.yml, /home/eugene/pi/config/newrelic.yml, /home/eugene/pi/newrelic.yml, /home/eugene/.newrelic/newrelic.yml, /home/eugene/newrelic.yml
+[2018-04-22 18:00:40 +0300 eugene-Aspire-5560 (8228)] INFO : Environment: development
+[2018-04-22 18:00:40 +0300 eugene-Aspire-5560 (8228)] INFO : No known dispatcher detected.
+[2018-04-22 18:00:40 +0300 eugene-Aspire-5560 (8228)] INFO : Application: development
+[2018-04-22 18:00:40 +0300 eugene-Aspire-5560 (8228)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2018-04-22 18:00:41 +0300 eugene-Aspire-5560 (8228)] INFO : Installing ActiveRecord 5 instrumentation
+[2018-04-22 18:00:41 +0300 eugene-Aspire-5560 (8228)] INFO : Installing http.rb instrumentation
+[2018-04-22 18:00:41 +0300 eugene-Aspire-5560 (8228)] INFO : Installing ActiveJob instrumentation
+[2018-04-22 18:00:41 +0300 eugene-Aspire-5560 (8228)] INFO : Installing deferred Rack::Builder instrumentation
+[2018-04-22 18:00:41 +0300 eugene-Aspire-5560 (8228)] INFO : Installing Rack::Builder middleware instrumentation
+[2018-04-22 18:00:41 +0300 eugene-Aspire-5560 (8228)] INFO : Installing Net instrumentation
+[2018-04-22 18:00:41 +0300 eugene-Aspire-5560 (8228)] INFO : Installing middleware-based Excon instrumentation
+[2018-04-22 18:00:41 +0300 eugene-Aspire-5560 (8228)] INFO : Installing Rails 3+ middleware instrumentation
+[2018-04-22 18:00:41 +0300 eugene-Aspire-5560 (8228)] INFO : Installing Rails 5 Controller instrumentation
+[2018-04-22 18:00:41 +0300 eugene-Aspire-5560 (8228)] INFO : Installing Rails 5 Action Cable instrumentation
+[2018-04-22 18:00:41 +0300 eugene-Aspire-5560 (8228)] INFO : Installing Rails 5 view instrumentation
+[2018-04-22 18:00:41 +0300 eugene-Aspire-5560 (8228)] INFO : Finished instrumentation
+[2018-04-22 18:22:10 +0300 eugene-Aspire-5560 (9331)] INFO : Starting the New Relic agent version 5.0.0.342 in "development" environment.
+[2018-04-22 18:22:10 +0300 eugene-Aspire-5560 (9331)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2018-04-22 18:22:10 +0300 eugene-Aspire-5560 (9331)] WARN : No configuration file found. Working directory = /home/eugene/pi
+[2018-04-22 18:22:10 +0300 eugene-Aspire-5560 (9331)] WARN : Looked in these locations (based on defaults): /home/eugene/pi/config/newrelic.yml, /home/eugene/pi/newrelic.yml, /home/eugene/pi/config/newrelic.yml, /home/eugene/pi/newrelic.yml, /home/eugene/.newrelic/newrelic.yml, /home/eugene/newrelic.yml
+[2018-04-22 18:22:10 +0300 eugene-Aspire-5560 (9331)] INFO : Environment: development
+[2018-04-22 18:22:10 +0300 eugene-Aspire-5560 (9331)] INFO : No known dispatcher detected.
+[2018-04-22 18:22:10 +0300 eugene-Aspire-5560 (9331)] INFO : Application: development
+[2018-04-22 18:22:10 +0300 eugene-Aspire-5560 (9331)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2018-04-22 18:22:10 +0300 eugene-Aspire-5560 (9331)] INFO : Installing ActiveRecord 5 instrumentation
+[2018-04-22 18:22:10 +0300 eugene-Aspire-5560 (9331)] INFO : Installing http.rb instrumentation
+[2018-04-22 18:22:10 +0300 eugene-Aspire-5560 (9331)] INFO : Installing ActiveJob instrumentation
+[2018-04-22 18:22:10 +0300 eugene-Aspire-5560 (9331)] INFO : Installing deferred Rack::Builder instrumentation
+[2018-04-22 18:22:10 +0300 eugene-Aspire-5560 (9331)] INFO : Installing Rack::Builder middleware instrumentation
+[2018-04-22 18:22:10 +0300 eugene-Aspire-5560 (9331)] INFO : Installing Net instrumentation
+[2018-04-22 18:22:10 +0300 eugene-Aspire-5560 (9331)] INFO : Installing middleware-based Excon instrumentation
+[2018-04-22 18:22:10 +0300 eugene-Aspire-5560 (9331)] INFO : Installing Rails 3+ middleware instrumentation
+[2018-04-22 18:22:10 +0300 eugene-Aspire-5560 (9331)] INFO : Installing Rails 5 Controller instrumentation
+[2018-04-22 18:22:10 +0300 eugene-Aspire-5560 (9331)] INFO : Installing Rails 5 Action Cable instrumentation
+[2018-04-22 18:22:10 +0300 eugene-Aspire-5560 (9331)] INFO : Installing Rails 5 view instrumentation
+[2018-04-22 18:22:10 +0300 eugene-Aspire-5560 (9331)] INFO : Finished instrumentation
+[2018-04-22 18:54:43 +0300 eugene-Aspire-5560 (7868)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: uninitialized constant Admin::NewsController::New
+[2018-04-22 18:55:06 +0300 eugene-Aspire-5560 (7868)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `if' for #<News:0x00007f0d44dcc7a8>
+[2018-04-22 18:55:52 +0300 eugene-Aspire-5560 (7868)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined method `has_role?' for nil:NilClass
+[2018-04-22 18:56:51 +0300 eugene-Aspire-5560 (7868)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined local variable or method `current_user' for #<Class:0x00007f0d0616ff98>
+Did you mean?  current_scope
+[2018-04-22 18:57:07 +0300 eugene-Aspire-5560 (7868)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined local variable or method `current_user' for #<Class:0x00005649f18c9d80>
+Did you mean?  current_scope
+[2018-04-22 18:57:13 +0300 eugene-Aspire-5560 (7868)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined local variable or method `current_admin_user' for #<Class:0x00007f0d3586c2e0>
+Did you mean?  current_scope
+[2018-04-22 18:59:03 +0300 eugene-Aspire-5560 (7868)] WARN : The error reporting queue has reached 20. The error detail for this and subsequent errors will not be transmitted to New Relic until the queued errors have been sent: undefined local variable or method `session' for #<Class:0x00007f0d4553e8d8>
+[2018-04-22 19:02:07 +0300 eugene-Aspire-5560 (7868)] INFO : Starting Agent shutdown
+[2018-04-22 19:02:59 +0300 eugene-Aspire-5560 (11750)] INFO : Starting the New Relic agent version 5.0.0.342 in "development" environment.
+[2018-04-22 19:02:59 +0300 eugene-Aspire-5560 (11750)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2018-04-22 19:02:59 +0300 eugene-Aspire-5560 (11750)] WARN : No configuration file found. Working directory = /home/eugene/pi
+[2018-04-22 19:02:59 +0300 eugene-Aspire-5560 (11750)] WARN : Looked in these locations (based on defaults): /home/eugene/pi/config/newrelic.yml, /home/eugene/pi/newrelic.yml, /home/eugene/pi/config/newrelic.yml, /home/eugene/pi/newrelic.yml, /home/eugene/.newrelic/newrelic.yml, /home/eugene/newrelic.yml
+[2018-04-22 19:02:59 +0300 eugene-Aspire-5560 (11750)] INFO : Environment: development
+[2018-04-22 19:02:59 +0300 eugene-Aspire-5560 (11750)] INFO : No known dispatcher detected.
+[2018-04-22 19:02:59 +0300 eugene-Aspire-5560 (11750)] INFO : Application: development
+[2018-04-22 19:02:59 +0300 eugene-Aspire-5560 (11750)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2018-04-22 19:02:59 +0300 eugene-Aspire-5560 (11750)] INFO : Installing ActiveRecord 5 instrumentation
+[2018-04-22 19:02:59 +0300 eugene-Aspire-5560 (11750)] INFO : Installing http.rb instrumentation
+[2018-04-22 19:02:59 +0300 eugene-Aspire-5560 (11750)] INFO : Installing ActiveJob instrumentation
+[2018-04-22 19:02:59 +0300 eugene-Aspire-5560 (11750)] INFO : Installing deferred Rack::Builder instrumentation
+[2018-04-22 19:02:59 +0300 eugene-Aspire-5560 (11750)] INFO : Installing Rack::Builder middleware instrumentation
+[2018-04-22 19:02:59 +0300 eugene-Aspire-5560 (11750)] INFO : Installing Net instrumentation
+[2018-04-22 19:02:59 +0300 eugene-Aspire-5560 (11750)] INFO : Installing middleware-based Excon instrumentation
+[2018-04-22 19:02:59 +0300 eugene-Aspire-5560 (11750)] INFO : Installing Rails 3+ middleware instrumentation
+[2018-04-22 19:03:00 +0300 eugene-Aspire-5560 (11750)] INFO : Installing Rails 5 Controller instrumentation
+[2018-04-22 19:03:00 +0300 eugene-Aspire-5560 (11750)] INFO : Installing Rails 5 Action Cable instrumentation
+[2018-04-22 19:03:00 +0300 eugene-Aspire-5560 (11750)] INFO : Installing Rails 5 view instrumentation
+[2018-04-22 19:03:00 +0300 eugene-Aspire-5560 (11750)] INFO : Finished instrumentation
+[2018-04-22 19:03:17 +0300 eugene-Aspire-5560 (11750)] INFO : Doing deferred dependency-detection before Rack startup
+[2018-04-22 19:04:04 +0300 eugene-Aspire-5560 (11750)] ERROR : Invalid license key, please contact support@newrelic.com
+[2018-04-22 19:04:04 +0300 eugene-Aspire-5560 (11750)] ERROR : Visit NewRelic.com to obtain a valid license key, or to upgrade your account.
+[2018-04-22 21:02:25 +0300 eugene-Aspire-5560 (11750)] INFO : Starting Agent shutdown
+[2018-04-24 14:13:06 +0300 eugene-Aspire-5560 (8442)] INFO : Starting the New Relic agent version 5.0.0.342 in "development" environment.
+[2018-04-24 14:13:06 +0300 eugene-Aspire-5560 (8442)] INFO : To prevent agent startup add a NEW_RELIC_AGENT_ENABLED=false environment variable or modify the "development" section of your newrelic.yml.
+[2018-04-24 14:13:06 +0300 eugene-Aspire-5560 (8442)] WARN : No configuration file found. Working directory = /home/eugene/pi
+[2018-04-24 14:13:06 +0300 eugene-Aspire-5560 (8442)] WARN : Looked in these locations (based on defaults): /home/eugene/pi/config/newrelic.yml, /home/eugene/pi/newrelic.yml, /home/eugene/pi/config/newrelic.yml, /home/eugene/pi/newrelic.yml, /home/eugene/.newrelic/newrelic.yml, /home/eugene/newrelic.yml
+[2018-04-24 14:13:06 +0300 eugene-Aspire-5560 (8442)] INFO : Environment: development
+[2018-04-24 14:13:06 +0300 eugene-Aspire-5560 (8442)] INFO : No known dispatcher detected.
+[2018-04-24 14:13:06 +0300 eugene-Aspire-5560 (8442)] INFO : Application: development
+[2018-04-24 14:13:06 +0300 eugene-Aspire-5560 (8442)] WARN : No license key found. This often means your newrelic.yml file was not found, or it lacks a section for the running environment, 'development'. You may also want to try linting your newrelic.yml to ensure it is valid YML.
+[2018-04-24 14:13:06 +0300 eugene-Aspire-5560 (8442)] INFO : Installing ActiveRecord 5 instrumentation
+[2018-04-24 14:13:06 +0300 eugene-Aspire-5560 (8442)] INFO : Installing http.rb instrumentation
+[2018-04-24 14:13:06 +0300 eugene-Aspire-5560 (8442)] INFO : Installing ActiveJob instrumentation
+[2018-04-24 14:13:06 +0300 eugene-Aspire-5560 (8442)] INFO : Installing deferred Rack::Builder instrumentation
+[2018-04-24 14:13:06 +0300 eugene-Aspire-5560 (8442)] INFO : Installing Rack::Builder middleware instrumentation
+[2018-04-24 14:13:06 +0300 eugene-Aspire-5560 (8442)] INFO : Installing Net instrumentation
+[2018-04-24 14:13:06 +0300 eugene-Aspire-5560 (8442)] INFO : Installing middleware-based Excon instrumentation
+[2018-04-24 14:13:06 +0300 eugene-Aspire-5560 (8442)] INFO : Installing Rails 3+ middleware instrumentation
+[2018-04-24 14:13:06 +0300 eugene-Aspire-5560 (8442)] INFO : Installing Rails 5 Controller instrumentation
+[2018-04-24 14:13:06 +0300 eugene-Aspire-5560 (8442)] INFO : Installing Rails 5 Action Cable instrumentation
+[2018-04-24 14:13:06 +0300 eugene-Aspire-5560 (8442)] INFO : Installing Rails 5 view instrumentation
+[2018-04-24 14:13:06 +0300 eugene-Aspire-5560 (8442)] INFO : Finished instrumentation
+[2018-04-24 14:13:25 +0300 eugene-Aspire-5560 (8442)] INFO : Doing deferred dependency-detection before Rack startup
+[2018-04-24 14:13:31 +0300 eugene-Aspire-5560 (8442)] ERROR : Error establishing connection with New Relic Service at collector.newrelic.com:443:
+[2018-04-24 14:13:31 +0300 eugene-Aspire-5560 (8442)] ERROR : NewRelic::Agent::ServerConnectionException: Recoverable error talking to collector.newrelic.com:443 after 2 attempts: Failed to open TCP connection to collector.newrelic.com:443 (getaddrinfo: Temporary failure in name resolution)
+[2018-04-24 14:13:31 +0300 eugene-Aspire-5560 (8442)] INFO : Will re-attempt in 60 seconds
+[2018-04-24 14:14:31 +0300 eugene-Aspire-5560 (8442)] ERROR : Error establishing connection with New Relic Service at collector.newrelic.com:443:
+[2018-04-24 14:14:31 +0300 eugene-Aspire-5560 (8442)] ERROR : NewRelic::Agent::ServerConnectionException: Recoverable error talking to collector.newrelic.com:443 after 2 attempts: Failed to open TCP connection to collector.newrelic.com:443 (getaddrinfo: Temporary failure in name resolution)
+[2018-04-24 14:14:31 +0300 eugene-Aspire-5560 (8442)] INFO : Will re-attempt in 120 seconds
+[2018-04-24 14:16:31 +0300 eugene-Aspire-5560 (8442)] ERROR : Error establishing connection with New Relic Service at collector.newrelic.com:443:
+[2018-04-24 14:16:31 +0300 eugene-Aspire-5560 (8442)] ERROR : NewRelic::Agent::ServerConnectionException: Recoverable error talking to collector.newrelic.com:443 after 2 attempts: Failed to open TCP connection to collector.newrelic.com:443 (getaddrinfo: Temporary failure in name resolution)
+[2018-04-24 14:16:31 +0300 eugene-Aspire-5560 (8442)] INFO : Will re-attempt in 180 seconds
+[2018-04-24 14:17:15 +0300 eugene-Aspire-5560 (8442)] INFO : Starting Agent shutdown

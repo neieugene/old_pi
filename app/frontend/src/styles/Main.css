@@ -1,0 +1,25 @@
+.PIApp-main {
+  flex: 1 0 auto;
+}
+
+.PIApp-main > div {
+  padding: 20px 0;
+}
+
+@media only screen and (min-width: 576px) {
+  .PIApp-main > div {
+    padding: 50px 0;
+  }
+}
+
+@media (min-width: 1440px) {
+  .PIApp-main {
+    background-color: #fbee8d;
+  }
+
+  .PIApp-main > div {
+    max-width: 1440px;
+    padding-left: 95px;
+    padding-right: 95px;
+  }
+}

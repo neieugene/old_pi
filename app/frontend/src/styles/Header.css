@@ -1,0 +1,81 @@
+.Header {
+  position: relative;
+  background: no-repeat center center;
+  background-color: #1d348b;
+  background-attachment: scroll;
+  background-size: cover;
+}
+
+.Header .line-bg {
+  background: url("../images/line.png");
+}
+
+.Header:not(.Header--reverse) .ornament-bg {
+  background-image: url("../images/ornament.png");
+  background-repeat: repeat-x;
+  background-size: 185px;
+  background-position: center;
+}
+
+.Header .site-logo {
+  height: 60px;
+  position: absolute;
+}
+
+.Header .site-heading {
+  padding-left: 65px;
+  color: white;
+}
+
+.Header .site-heading h1 {
+  margin-top: 0;
+
+  font-variant: small-caps;
+  font-size: 27px;
+}
+
+.Header .site-heading h1 a {
+  color: white;
+  text-decoration: none;
+}
+
+.Header .site-heading h1 a:hover,
+.Header .site-heading h1 a:focus {
+  color: rgba(255, 255, 255, 0.8);
+}
+
+.Header .site-heading h1 .text-wide {
+  letter-spacing: 2.2px;
+  font-size: 27px;
+}
+
+.Header .site-heading .subheading {
+  font-size: 12px;
+  font-weight: 600;
+  line-height: 1.1;
+  display: inline-block;
+  margin: 0;
+}
+
+@media only screen and (min-width: 576px) {
+  .Header .site-heading h1 {
+    font-size: 38px;
+  }
+
+  .Header .site-logo {
+    height: 75px;
+  }
+
+  .Header .site-heading {
+    padding-left: 80px;
+  }
+
+  .Header .site-heading h1 .text-wide {
+    letter-spacing: 1.9px;
+    font-size: 40px;
+  }
+
+  .Header .site-heading .subheading {
+    margin-top: 10px;
+  }
+}

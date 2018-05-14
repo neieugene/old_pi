@@ -1,0 +1,19 @@
+.Article {
+  overflow: hidden;
+}
+
+.Article-container p {
+  margin: 20px 0;
+}
+
+.Article-download-link {
+  display: block;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.Article-container img {
+  /* Override redactor inline styles */
+  max-width: 100% !important;
+  height: auto !important
+}

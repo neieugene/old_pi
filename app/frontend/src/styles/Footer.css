@@ -1,0 +1,24 @@
+.Footer {
+  padding-bottom: 40px;
+  background-color: #111f53;
+}
+
+.Footer hr {
+  margin-top: 0;
+}
+
+.Footer .list-inline {
+  margin: 0;
+  padding: 0;
+}
+
+.Footer .list-inline a {
+  color: #1d348b;
+}
+
+.Footer .copyright {
+  font-size: 16px;
+  margin-bottom: 0;
+  text-align: center;
+  color: #fff;
+}

@@ -1,0 +1,13 @@
+.CollegiumContent {
+}
+
+.CollegiumContent-card {
+  display: flex;
+  align-items: center;
+}
+
+.CollegiumContent-avatar {
+  height: 150px;
+  border-radius: 50%;
+  margin-right: 20px;
+}

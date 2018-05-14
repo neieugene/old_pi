@@ -1,0 +1,1 @@
+json.(@static_page, :id, :slug, :body)

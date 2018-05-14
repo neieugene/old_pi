@@ -1,0 +1,18 @@
+default: &default
+  adapter: postgresql
+  encoding: unicode
+  pool: 5
+  username:
+  password:
+
+development:
+  <<: *default
+  database: pi_development
+
+test:
+  <<: *default
+  database: pi_test
+
+production:
+  <<: *default
+  database: pi_production

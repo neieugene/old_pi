@@ -1,0 +1,15 @@
+.UserInfo {
+  display: flex;
+}
+
+.UserInfo-avatar {
+  max-width: 7rem;
+}
+
+.UserInfo-info {
+  padding: 1rem;
+}
+
+.UserInfo-info * {
+  display: block;
+}

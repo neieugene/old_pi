@@ -1,0 +1,15 @@
+
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="40" height="40"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="40" height="40" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Group-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <use id="Rectangle-98" stroke="#000000" mask="url(#mask-2)" stroke-width="2" xlink:href="#path-1"></use>
+        <path d="M24.6633826,32.134647 C24.8275862,32.2988506 25.0328407,32.3809524 25.2586207,32.3809524 C25.4844007,32.3809524 25.6896552,32.2988506 25.8538588,32.134647 C26.182266,31.8062397 26.182266,31.272578 25.8538588,30.9441708 L15.3858785,20.4761905 L25.8538588,10.0082102 C26.182266,9.67980296 26.182266,9.14614122 25.8538588,8.81773399 C25.5254516,8.48932677 24.9917898,8.48932677 24.6633826,8.81773399 L13.5796388,19.8809524 C13.2512315,20.2093596 13.2512315,20.7430213 13.5796388,21.0714286 L24.6633826,32.134647 L24.6633826,32.134647 Z" id="Shape" fill="#000000"></path>
+    </g>
+</svg>

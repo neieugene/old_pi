@@ -1,0 +1,69 @@
+@media (min-width: 1280px) {
+  .container {
+    max-width: 1250px;
+  }
+}
+
+.btn {
+  font-size: 14px;
+  font-weight: 800;
+  line-height: 1;
+  padding: 11px 20px;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  border-radius: 0;
+}
+
+.btn-primary {
+  color: white;
+  border-color: #111f53;
+  background-color: #111f53;
+}
+
+.btn-primary.focus,
+.btn-primary:focus,
+.btn-primary:hover,
+.btn-primary.active,
+.btn-primary:active,
+.btn-primary.active.focus,
+.btn-primary.active:focus,
+.btn-primary.active:hover,
+.btn-primary:active.focus,
+.btn-primary:active:focus,
+.btn-primary:active:hover {
+  color: white;
+  border-color: #17296f;
+  background-color: #17296f;
+  cursor: pointer;
+}
+
+.btn-primary.disabled.focus,
+.btn-primary.disabled:focus,
+.btn-primary.disabled:hover,
+.btn-primary[disabled].focus,
+.btn-primary[disabled]:focus,
+.btn-primary[disabled]:hover,
+fieldset[disabled] .btn-primary.focus,
+fieldset[disabled] .btn-primary:focus,
+fieldset[disabled] .btn-primary:hover {
+  border-color: #0085a1;
+  background-color: #0085a1;
+}
+
+.btn-lg {
+  font-size: 16px;
+  padding: 15px 30px;
+}
+
+.btn-default:focus,
+.btn-default:hover {
+  color: white;
+  border: 1px solid #0085a1;
+  background-color: #0085a1;
+}
+
+.form-control {
+  border: none;
+  border-radius: 0;
+  font-size: 0.9rem;
+}

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="80px" height="40px" viewBox="0 0 80 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.1 (28215) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group">
+            <g>
+                <rect id="Rectangle-5" fill="#E62A13" x="0" y="0" width="80" height="40"></rect>
+                <path d="M45.0736176,13.4771497 L41.9102647,13.4771497 C41.5364119,13.4771497 41.1187067,13.9707108 41.1187067,14.6309403 L41.1187067,16.9229658 L45.0736176,16.9229658 L45.0736176,20.1896688 L41.1187067,20.1896688 L41.1187067,30 L37.3852726,30 L37.3852726,20.1896688 L34,20.1896688 L34,16.9229658 L37.3852726,16.9229658 L37.3852726,15.0000556 C37.3852726,12.2429138 39.2924092,10 41.9104862,10 L45.0738391,10 L45.0738391,13.4771497 L45.0736176,13.4771497 Z" id="Facebook" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

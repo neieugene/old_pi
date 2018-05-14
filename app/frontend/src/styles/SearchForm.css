@@ -1,0 +1,24 @@
+.SearchForm {
+  margin-bottom: 20px;
+}
+
+.SearchForm .form-group {
+  margin-bottom: 0;
+  flex-grow: 1;
+}
+
+.SearchForm .form-control {
+  width: 100%;
+}
+
+.SearchForm .btn {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+@media only screen and (min-width: 576px) {
+  .SearchForm .btn {
+    padding-top: 13px;
+    padding-bottom: 13px;
+  }
+}

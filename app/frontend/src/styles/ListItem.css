@@ -1,0 +1,45 @@
+.ListItem {
+  padding: 1rem;
+}
+
+.ListItem * {
+  margin: 0;
+}
+
+.ListItem-picture {
+  height: 100px;
+}
+
+.ListItem-text-content {
+  margin-left: 1rem;
+}
+
+.ListItem:hover {
+  background-color: #d0c978;
+  cursor: pointer;
+}
+
+@media (max-width: 1440px) {
+  .ListItem:hover {
+    background-color: #dbecff;
+    cursor: pointer;
+  }
+}
+
+.ListItem-description {
+  white-space: nowrap;
+  width: 20em;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.ListItem--disabled {
+  pointer-events: none;
+  opacity: 0.5;
+}
+
+@media only screen and (min-width: 576px) {
+  .ListItem-popover {
+    max-width: 400px;
+  }
+}
